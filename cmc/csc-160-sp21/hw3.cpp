@@ -1,4 +1,4 @@
-// Quadrattic equation solver mini program
+// Quadrattic equation solver program
 #include <iostream>
 #include <complex>
 
