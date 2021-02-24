@@ -1,0 +1,57 @@
+Define function for the equation; X value as the input
+
+"Welcome to the program user"
+
+do while true
+	get input from user
+	pointA.X = interval.A	
+	pointB.X = interval.B
+	pointA.Y = Equation(pointA.X)
+	pointB.Y = Equation(pointB.X)
+
+	if pointA.X > pointB.X || pointA.X > 0 || pointB.X < 0
+		"Invalid input"
+		continue
+
+	if Equation(pointA.X) == 0
+		"A bound is a root"
+		end program
+	if Equation(pointB.X) == 0
+		"B bound is a root"
+		end program
+
+	
+	break
+
+do while true
+	get input from user
+	tolerance = input
+
+	if tolerance < 0
+		"Invalid input"
+		continue
+
+	break
+
+pointA.Y = Equation(pointA.X)
+pointB.Y = Equation(pointB.X)
+
+do while ((pointA.X + pointB.X) / 2)) > tolerance
+	iterations++
+
+	pointM.X = (pointA + pointB) / 2
+	pointM.Y = Equation(pointM.X)
+
+	if pointM.Y = 0
+		"Point M is a root at so many iterations"
+		end program
+
+	if pointM.Y < 0
+		pointA.X = pointM.X
+		pointA.y = Equation(pointA.X)
+	if pointM.Y > 0
+		pointB.X = pointM.X
+		pointB.y = Equation(pointB.X)
+
+"A root is at f(X)=Y found in so many iterations"
+end program
