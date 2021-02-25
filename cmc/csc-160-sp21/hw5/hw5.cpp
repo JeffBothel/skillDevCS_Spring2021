@@ -1,114 +1,122 @@
-// To wokr up the algorithm for this program, I used http://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/bisection.html as a reference for the method
+// To work up the algorithm for this program, I used http://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/bisection.html as a reference for the method
 #include <iostream>
 #include <string>
 #include <math.h>
 
-// Since I am going to be using the equation over and over again in the application, defining its output as a function to call over and over again simply
+// Putting the equation into a function to allow it to operate effectively
 double Equation(double dbl_valueX)
 {
-	// Calculates the equation and 
-	double dbl_valueY = std::pow(dbl_valueX, 3.0) - ((double)3.0 * dbl_valueX) - (double)4.0;
-
+	double dbl_valueY = pow(dbl_valueX, 3.0) - ((double)3.0 * dbl_valueX) - (double)4.0;
 	return dbl_valueY;
+}
+
+bool SignNegative(double dbl_value)
+{
+	bool bin_return;
+	
+	if (dbl_value < 0) bin_return = true;
+	else bin_return = false;
+
+	return bin_return;
 }
 
 int main()
 {
-	// Variable decleration for the application
-	int int_iterations = 0;
-	double dbl_pointA[2], dbl_pointB[2], dbl_pointM[2], dbl_tolerance, dbl_testing;				// Points I am using [0]=X and [1]=Y for the pairs
+	// Variable declerations
+	int int_iterations;
+	double dbl_valueL[2], dbl_valueR[2], dbl_valueM[2], dbl_tolerance;
 	std::string str_input;
 
-	// Welcoming the user to the program and giving usage information
-	std::cout << "Bisection Method Equation Calculator\n";
-	std::cout << "Value A should be less than 0 and value B should be greater than 0.\n\n";
+	// Gretting users to the program
+	std::cout << "<<< Bisection Method Root Solving Calculator for f(x)=x^3-3x-4 >>>\n";
+	std::cout << "Enter the interval to look at and bisection with, as well the level of confidence for that solution.\n\n";
 
-	// Loop to gather valid user input for the bounds
-	do {
-		// Gather point A
-		std::cout << "Enter the value for A (the left bound): ";
+	// Loop for gathering the interval from the user
+	do
+	{
+		// Gather the left bound for the interval
+		std::cout << "Enter the left bound: ";
 		std::cin >> str_input;
-		dbl_pointA[0] = std::stod(str_input);
+		dbl_valueL[0] = std::stod(str_input);
+		dbl_valueL[1] = Equation(dbl_valueL[0]);
 
-		// Gather point B
-		std::cout << "Enter the value for B (the right bound): ";
+		// Gather the right bound for the interval
+		std::cout << "Enter the right bound: ";
 		std::cin >> str_input;
-		dbl_pointB[0] = std::stod(str_input);
+		dbl_valueR[0] = std::stod(str_input);
+		dbl_valueR[1] = Equation(dbl_valueR[0]);
 
-		// Ensuring the bounds are appropriate
-		if (dbl_pointA[0] > dbl_pointB[0] || dbl_pointA[0] > 0 || dbl_pointB[0] < 0) {
-			std::cout << "Invalid bounds. Please try again.\n";
+		// Determining if the left of the bounds is a root
+		if (dbl_valueL[1] == 0) 
+		{
+			std::cout << "\n\nRoot for the equation found at f(" << dbl_valueL[0] << ")=" << dbl_valueL[1] << "; no iterations needed.";
+			return 0;
+		}
+
+		// Determining if the left of the bounds is a root
+		if (dbl_valueR[1] == 0) 
+		{
+			std::cout << "\n\nRoot for the equation found at f(" << dbl_valueR[0] << ")=" << dbl_valueR[1] << "; no iterations needed.";
+			return 0;
+		}
+
+		// Ensure the inputs are effective for the analysis
+		if (SignNegative(dbl_valueL[1]) == SignNegative(dbl_valueR[1]))
+		{
+			std::cout << "Invalid interval. Please enter a new interval.\n";
 			continue;
 		}
 
-		// Ensuring that one of the bounds is not a root
-		if (Equation(dbl_pointA[0]) == 0) {
-			std::cout << "Bound A being f(" << dbl_pointA[0] << ")=0, this is a root and no iterations are needed.";
-			return 0;
-		}
-
-		if (Equation(dbl_pointB[0]) == 0) {
-			std::cout << "Bound B being f(" << dbl_pointB[0] << ")=0, this is a root and no iterations are needed.";
-			return 0;
-		}
-
-		// Exiting the loop as acceptable user input bas been received
 		break;
+
 	} while (true);
 
-	// Loop to gather valid user input for the tolerance
-	do {
-		std::cout << "Enter the error tolerance for the solutions: ";
+	// Loop for gathering the tolerance from the user
+	do
+	{
+		std::cout << "Enter the right bound: ";
 		std::cin >> str_input;
 		dbl_tolerance = std::stod(str_input);
 
-		// Ensure the input is valid
-		if (dbl_tolerance < 0) {
-			std::cout << "Invalid tolerance. Please try again.";
+		// Evaluate if a relevant tolerance
+		if (abs(dbl_tolerance) > (double)1.0)
+		{
+			std::cout << "Invalid tolerance. Please enter a new tolerance.\n";
 			continue;
 		}
 
 		break;
 	} while (true);
 
-	// Setting the bounds points for initial values to be used before entering the iterations loop
-	dbl_pointA[1] = Equation(dbl_pointA[0]);
-	dbl_pointB[1] = Equation(dbl_pointB[0]);
-
-	// Looping until the distance between the points A and B is less than the tolerance
-	do {
+	// Loop for performing the bisections to the root
+	int_iterations = 0;
+	do
+	{
+		// Count the iterations that the program runs
 		int_iterations++;
 
-		// Setting the midpoint for this iteration
-		dbl_pointM[0] = ((dbl_pointA[0] + dbl_pointB[0]) / (double)2.0);
-		dbl_pointM[1] = Equation(dbl_pointM[0]);
+		// Find the values for midpoint of the interval
+		dbl_valueM[0] = (dbl_valueL[0] + dbl_valueR[0]) / (double)2.0; 
+		dbl_valueM[1] = Equation(dbl_valueM[0]);
 
-		// Checking if we have a root
-		if (dbl_pointM[1] == 0) break;
+		// If a root at the midpoint
+		if (dbl_valueM[1] == 0) break;
 
-		dbl_testing = (dbl_pointA[0] + dbl_pointB[0]) / (double)2.0;
-
-		// Checking where to reduce the possible errors
-		if (dbl_pointM[1] < 0) {
-			dbl_pointA[0] = dbl_pointM[0];
-			dbl_pointA[1] = Equation(dbl_pointA[0]);
+		// If the result of the equation is on the positive side of the X-axis still and if so bring the left bound closer to the X-axis
+		if (dbl_valueM[1] < 0) {
+			dbl_valueL[0] = dbl_valueM[0];
+			dbl_valueL[1] = Equation(dbl_valueL[0]);
 		}
 
-		if (dbl_pointM[1] > 0) {
-			dbl_pointB[0] = dbl_pointM[0];
-			dbl_pointB[1] = Equation(dbl_pointB[0]);
-		}
-		
-		// Checking if final loop, and if so set the A value to M for output without at arriving at a true root
-		if (abs((dbl_pointA[0] + dbl_pointB[0]) / (double)2.0) < dbl_tolerance) {
-			dbl_pointM[0] = dbl_pointA[0];
-			dbl_pointM[1] = Equation(dbl_pointM[1]);
+		// If the result of the equation is on the negative side of the X-axis still and if so bring the right bound closer to the X-axis
+		if (dbl_valueM[1] > 0) {
+			dbl_valueR[0] = dbl_valueM[0];
+			dbl_valueR[1] = Equation(dbl_valueR[0]);
 		}
 
-	} while (abs((dbl_pointA[0] + dbl_pointB[0]) / (double)2.0) < dbl_tolerance);
+	} while (std::abs(dbl_valueR[0] - dbl_valueL[0]) > dbl_tolerance);
 
-	std::cout << "\nFound a root at f(" << dbl_pointM[0] << ")=0 after " << int_iterations << ".\n";
-
-	// Final termination of the program
+	// Output the result information to the user
+	std::cout << "\n\nRoot for the equation found at f(" << dbl_valueM[0] << ")=" << dbl_valueM[1] << "; found after " << int_iterations << " for a iterations.\n\n\n";
 	return 0;
 }
