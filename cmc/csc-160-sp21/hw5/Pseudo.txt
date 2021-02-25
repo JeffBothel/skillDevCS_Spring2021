@@ -41,10 +41,12 @@ Main
 			break
 		
 		if Equation(valueM) < 0				// This is bringing the bound closer to the zero point from the left (i.e. moving it up from a -Y value)
-			valueL = valueM
+			valueL.X = valueM
+			valueL.Y = Equation(valueL.X)
 
 		if Equation(valueM) > 0				// This is bringing the bound closer to the zero point from the right (i.e. moving it down from a Y value)
 			valueR = valueM
+			valueR.Y = Equation(valueR.X)
 			
 	"Solution found at f(valueM)=Equation(valueM). Found after # iterations"
 	end program
