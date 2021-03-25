@@ -1,8 +1,6 @@
 #include <iostream>
-#include <filesystem>
+#include <string>
 
-// Main entry function for the program
-int main() 
-{
-	
+int main() {
+
 }

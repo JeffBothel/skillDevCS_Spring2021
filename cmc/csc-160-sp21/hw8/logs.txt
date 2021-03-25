@@ -1,0 +1,1974 @@
+
+Begin program run.
+File name used for input: testInput.txt
+File name used for output: testOutput.txt
+End of program run.
+
+Begin program run.
+File name used for input: testInput.txt
+File name used for output: testOutput.txt
+End of program run.
+Begin program run.
+File name used for input: testInput.txt
+File name used for output: testOutput0.txt
+Input file line count: 1
+Gathered dbl_fileInputValues[0]=2.85234e+06
+Begin program run.
+File name used for input: testInput.txt
+File name used for output: testOutput1.txt
+Input file line count: 1
+Gathered dbl_fileInputValues[0]=2.85234e+06
+Value dbl_fileInputValues[0]=2.85234e+06 written to file
+Output 1 numbers to testOutput1.txt successfully.
+There were 0 swap operations performed.
+End of program run.
+Begin program run.
+File name used for input: testInput.txt
+File name used for output: testOutput.txt
+Input file line count: 1
+Gathered dbl_fileInputValues[0]=2.85234e+06
+Value dbl_fileInputValues[0]=2.85234e+06 written to file
+Output 1 numbers to testOutput.txt successfully.
+There were 0 swap operations performed.
+End of program run.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful.
+Writing line 1 to array successful.
+Writing line 2 to array successful.
+Writing line 3 to array successful.
+Writing line 4 to array successful.
+Writing line 5 to array successful.
+Writing line 6 to array successful.
+Writing line 7 to array successful.
+Writing line 8 to array successful.
+Writing line 9 to array successful.
+Writing line 10 to array successful.
+Writing line 11 to array successful.
+Writing line 12 to array successful.
+Writing line 13 to array successful.
+Writing line 14 to array successful.
+Writing line 15 to array successful.
+Writing line 16 to array successful.
+Writing line 17 to array successful.
+Writing line 18 to array successful.
+Writing line 19 to array successful.
+Writing line 20 to array successful.
+Writing line 21 to array successful.
+Writing line 22 to array successful.
+Writing line 23 to array successful.
+Writing line 24 to array successful.
+Writing line 25 to array successful.
+Writing line 26 to array successful.
+Writing line 27 to array successful.
+Writing line 28 to array successful.
+Writing line 29 to array successful.
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (2.85234e+06)
+Writing line 1 to array successful (7.50192e+06)
+Writing line 2 to array successful (4.86824e+06)
+Writing line 3 to array successful (3.21242e+06)
+Writing line 4 to array successful (79665)
+Writing line 5 to array successful (2.57098e+06)
+Writing line 6 to array successful (1.41076e+06)
+Writing line 7 to array successful (5.72679e+06)
+Writing line 8 to array successful (2.69961e+06)
+Writing line 9 to array successful (2.9714e+06)
+Writing line 10 to array successful (4.17952e+06)
+Writing line 11 to array successful (7.79602e+06)
+Writing line 12 to array successful (7.91235e+06)
+Writing line 13 to array successful (5.21949e+06)
+Writing line 14 to array successful (3.92981e+06)
+Writing line 15 to array successful (5.40178e+06)
+Writing line 16 to array successful (7968)
+Writing line 17 to array successful (8.70722e+06)
+Writing line 18 to array successful (5.75606e+06)
+Writing line 19 to array successful (1.23907e+06)
+Writing line 20 to array successful (4.86741e+06)
+Writing line 21 to array successful (5.88943e+06)
+Writing line 22 to array successful (8.4433e+06)
+Writing line 23 to array successful (9.77677e+06)
+Writing line 24 to array successful (3.60398e+06)
+Writing line 25 to array successful (3.75016e+06)
+Writing line 26 to array successful (4.37685e+06)
+Writing line 27 to array successful (9.48187e+06)
+Writing line 28 to array successful (8.95031e+06)
+Writing line 29 to array successful (9.50892e+06)
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (2.85234e+06)
+Writing line 1 to array successful (7.50192e+06)
+Writing line 2 to array successful (4.86824e+06)
+Writing line 3 to array successful (3.21242e+06)
+Writing line 4 to array successful (79665)
+Writing line 5 to array successful (2.57098e+06)
+Writing line 6 to array successful (1.41076e+06)
+Writing line 7 to array successful (5.72679e+06)
+Writing line 8 to array successful (2.69961e+06)
+Writing line 9 to array successful (2.9714e+06)
+Writing line 10 to array successful (4.17952e+06)
+Writing line 11 to array successful (7.79602e+06)
+Writing line 12 to array successful (7.91235e+06)
+Writing line 13 to array successful (5.21949e+06)
+Writing line 14 to array successful (3.92981e+06)
+Writing line 15 to array successful (5.40178e+06)
+Writing line 16 to array successful (7968)
+Writing line 17 to array successful (8.70722e+06)
+Writing line 18 to array successful (5.75606e+06)
+Writing line 19 to array successful (1.23907e+06)
+Writing line 20 to array successful (4.86741e+06)
+Writing line 21 to array successful (5.88943e+06)
+Writing line 22 to array successful (8.4433e+06)
+Writing line 23 to array successful (9.77677e+06)
+Writing line 24 to array successful (3.60398e+06)
+Writing line 25 to array successful (3.75016e+06)
+Writing line 26 to array successful (4.37685e+06)
+Writing line 27 to array successful (9.48187e+06)
+Writing line 28 to array successful (8.95031e+06)
+Writing line 29 to array successful (9.50892e+06)
+dbl_fileLineCount[0]=2.85234e+06
+dbl_fileLineCount[1]=7968
+dbl_fileLineCount[2]=79665
+dbl_fileLineCount[3]=1.23907e+06
+dbl_fileLineCount[4]=1.41076e+06
+dbl_fileLineCount[5]=2.57098e+06
+dbl_fileLineCount[6]=2.69961e+06
+dbl_fileLineCount[7]=2.9714e+06
+dbl_fileLineCount[8]=3.21242e+06
+dbl_fileLineCount[9]=3.60398e+06
+dbl_fileLineCount[10]=3.75016e+06
+dbl_fileLineCount[11]=3.92981e+06
+dbl_fileLineCount[12]=4.17952e+06
+dbl_fileLineCount[13]=4.37685e+06
+dbl_fileLineCount[14]=4.86741e+06
+dbl_fileLineCount[15]=4.86824e+06
+dbl_fileLineCount[16]=5.21949e+06
+dbl_fileLineCount[17]=5.40178e+06
+dbl_fileLineCount[18]=5.72679e+06
+dbl_fileLineCount[19]=5.75606e+06
+dbl_fileLineCount[20]=5.88943e+06
+dbl_fileLineCount[21]=7.50192e+06
+dbl_fileLineCount[22]=7.79602e+06
+dbl_fileLineCount[23]=7.91235e+06
+dbl_fileLineCount[24]=8.4433e+06
+dbl_fileLineCount[25]=8.70722e+06
+dbl_fileLineCount[26]=8.95031e+06
+dbl_fileLineCount[27]=9.48187e+06
+dbl_fileLineCount[28]=9.50892e+06
+dbl_fileLineCount[29]=9.77677e+06
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileLineCount[0]=120
+dbl_fileLineCount[1]=3
+dbl_fileLineCount[2]=7
+dbl_fileLineCount[3]=25
+dbl_fileLineCount[4]=35
+dbl_fileLineCount[5]=55
+dbl_fileLineCount[6]=112
+dbl_fileLineCount[7]=127
+dbl_fileLineCount[8]=141
+dbl_fileLineCount[9]=142
+dbl_fileLineCount[10]=151
+dbl_fileLineCount[11]=164
+dbl_fileLineCount[12]=177
+dbl_fileLineCount[13]=189
+dbl_fileLineCount[14]=200
+dbl_fileLineCount[15]=206
+dbl_fileLineCount[16]=210
+dbl_fileLineCount[17]=212
+dbl_fileLineCount[18]=221
+dbl_fileLineCount[19]=223
+dbl_fileLineCount[20]=226
+dbl_fileLineCount[21]=233
+dbl_fileLineCount[22]=240
+dbl_fileLineCount[23]=243
+dbl_fileLineCount[24]=245
+dbl_fileLineCount[25]=248
+dbl_fileLineCount[26]=257
+dbl_fileLineCount[27]=265
+dbl_fileLineCount[28]=269
+dbl_fileLineCount[29]=272
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[0]=120 > dbl_fileInNumbers[1]=245
+dbl_fileInNumbers[2]=200 > dbl_fileInNumbers[3]=269
+dbl_fileInNumbers[3]=257 > dbl_fileInNumbers[4]=269
+dbl_fileInNumbers[4]=35 > dbl_fileInNumbers[5]=269
+dbl_fileInNumbers[5]=7 > dbl_fileInNumbers[6]=269
+dbl_fileInNumbers[6]=233 > dbl_fileInNumbers[7]=269
+dbl_fileInNumbers[7]=164 > dbl_fileInNumbers[8]=269
+dbl_fileInNumbers[8]=221 > dbl_fileInNumbers[9]=269
+dbl_fileInNumbers[9]=55 > dbl_fileInNumbers[10]=269
+dbl_fileInNumbers[10]=206 > dbl_fileInNumbers[11]=269
+dbl_fileInNumbers[11]=223 > dbl_fileInNumbers[12]=269
+dbl_fileInNumbers[12]=112 > dbl_fileInNumbers[13]=269
+dbl_fileInNumbers[13]=141 > dbl_fileInNumbers[14]=269
+dbl_fileInNumbers[14]=248 > dbl_fileInNumbers[15]=269
+dbl_fileInNumbers[15]=127 > dbl_fileInNumbers[16]=269
+dbl_fileInNumbers[16]=265 > dbl_fileInNumbers[17]=269
+dbl_fileInNumbers[17]=142 > dbl_fileInNumbers[18]=269
+dbl_fileInNumbers[18]=212 > dbl_fileInNumbers[19]=269
+dbl_fileInNumbers[19]=243 > dbl_fileInNumbers[20]=269
+dbl_fileInNumbers[20]=3 > dbl_fileInNumbers[21]=269
+dbl_fileInNumbers[22]=240 > dbl_fileInNumbers[23]=272
+dbl_fileInNumbers[23]=226 > dbl_fileInNumbers[24]=272
+dbl_fileInNumbers[24]=151 > dbl_fileInNumbers[25]=272
+dbl_fileInNumbers[25]=210 > dbl_fileInNumbers[26]=272
+dbl_fileInNumbers[26]=25 > dbl_fileInNumbers[27]=272
+dbl_fileInNumbers[27]=189 > dbl_fileInNumbers[28]=272
+dbl_fileInNumbers[28]=177 > dbl_fileInNumbers[29]=272
+dbl_fileLineCount[0]=120
+dbl_fileLineCount[1]=245
+dbl_fileLineCount[2]=200
+dbl_fileLineCount[3]=257
+dbl_fileLineCount[4]=35
+dbl_fileLineCount[5]=7
+dbl_fileLineCount[6]=233
+dbl_fileLineCount[7]=164
+dbl_fileLineCount[8]=221
+dbl_fileLineCount[9]=55
+dbl_fileLineCount[10]=206
+dbl_fileLineCount[11]=223
+dbl_fileLineCount[12]=112
+dbl_fileLineCount[13]=141
+dbl_fileLineCount[14]=248
+dbl_fileLineCount[15]=127
+dbl_fileLineCount[16]=265
+dbl_fileLineCount[17]=142
+dbl_fileLineCount[18]=212
+dbl_fileLineCount[19]=243
+dbl_fileLineCount[20]=3
+dbl_fileLineCount[21]=269
+dbl_fileLineCount[22]=240
+dbl_fileLineCount[23]=226
+dbl_fileLineCount[24]=151
+dbl_fileLineCount[25]=210
+dbl_fileLineCount[26]=25
+dbl_fileLineCount[27]=189
+dbl_fileLineCount[28]=177
+dbl_fileLineCount[29]=272
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[28]=189 > dbl_fileInNumbers[29]=177
+dbl_fileInNumbers[26]=210 > dbl_fileInNumbers[27]=25
+dbl_fileInNumbers[27]=210 > dbl_fileInNumbers[28]=177
+dbl_fileInNumbers[28]=210 > dbl_fileInNumbers[29]=189
+dbl_fileInNumbers[25]=151 > dbl_fileInNumbers[26]=25
+dbl_fileInNumbers[24]=226 > dbl_fileInNumbers[25]=25
+dbl_fileInNumbers[25]=226 > dbl_fileInNumbers[26]=151
+dbl_fileInNumbers[26]=226 > dbl_fileInNumbers[27]=177
+dbl_fileInNumbers[27]=226 > dbl_fileInNumbers[28]=189
+dbl_fileInNumbers[28]=226 > dbl_fileInNumbers[29]=210
+dbl_fileInNumbers[23]=240 > dbl_fileInNumbers[24]=25
+dbl_fileInNumbers[24]=240 > dbl_fileInNumbers[25]=151
+dbl_fileInNumbers[25]=240 > dbl_fileInNumbers[26]=177
+dbl_fileInNumbers[26]=240 > dbl_fileInNumbers[27]=189
+dbl_fileInNumbers[27]=240 > dbl_fileInNumbers[28]=210
+dbl_fileInNumbers[28]=240 > dbl_fileInNumbers[29]=226
+dbl_fileInNumbers[22]=272 > dbl_fileInNumbers[23]=25
+dbl_fileInNumbers[23]=272 > dbl_fileInNumbers[24]=151
+dbl_fileInNumbers[24]=272 > dbl_fileInNumbers[25]=177
+dbl_fileInNumbers[25]=272 > dbl_fileInNumbers[26]=189
+dbl_fileInNumbers[26]=272 > dbl_fileInNumbers[27]=210
+dbl_fileInNumbers[27]=272 > dbl_fileInNumbers[28]=226
+dbl_fileInNumbers[28]=272 > dbl_fileInNumbers[29]=240
+dbl_fileInNumbers[20]=243 > dbl_fileInNumbers[21]=3
+dbl_fileInNumbers[21]=243 > dbl_fileInNumbers[22]=25
+dbl_fileInNumbers[22]=243 > dbl_fileInNumbers[23]=151
+dbl_fileInNumbers[23]=243 > dbl_fileInNumbers[24]=177
+dbl_fileInNumbers[24]=243 > dbl_fileInNumbers[25]=189
+dbl_fileInNumbers[25]=243 > dbl_fileInNumbers[26]=210
+dbl_fileInNumbers[26]=243 > dbl_fileInNumbers[27]=226
+dbl_fileInNumbers[27]=243 > dbl_fileInNumbers[28]=240
+dbl_fileInNumbers[19]=212 > dbl_fileInNumbers[20]=3
+dbl_fileInNumbers[20]=212 > dbl_fileInNumbers[21]=25
+dbl_fileInNumbers[21]=212 > dbl_fileInNumbers[22]=151
+dbl_fileInNumbers[22]=212 > dbl_fileInNumbers[23]=177
+dbl_fileInNumbers[23]=212 > dbl_fileInNumbers[24]=189
+dbl_fileInNumbers[24]=212 > dbl_fileInNumbers[25]=210
+dbl_fileInNumbers[18]=142 > dbl_fileInNumbers[19]=3
+dbl_fileInNumbers[19]=142 > dbl_fileInNumbers[20]=25
+dbl_fileInNumbers[17]=265 > dbl_fileInNumbers[18]=3
+dbl_fileInNumbers[18]=265 > dbl_fileInNumbers[19]=25
+dbl_fileInNumbers[19]=265 > dbl_fileInNumbers[20]=142
+dbl_fileInNumbers[20]=265 > dbl_fileInNumbers[21]=151
+dbl_fileInNumbers[21]=265 > dbl_fileInNumbers[22]=177
+dbl_fileInNumbers[22]=265 > dbl_fileInNumbers[23]=189
+dbl_fileInNumbers[23]=265 > dbl_fileInNumbers[24]=210
+dbl_fileInNumbers[24]=265 > dbl_fileInNumbers[25]=212
+dbl_fileInNumbers[25]=265 > dbl_fileInNumbers[26]=226
+dbl_fileInNumbers[26]=265 > dbl_fileInNumbers[27]=240
+dbl_fileInNumbers[27]=265 > dbl_fileInNumbers[28]=243
+dbl_fileInNumbers[16]=127 > dbl_fileInNumbers[17]=3
+dbl_fileInNumbers[17]=127 > dbl_fileInNumbers[18]=25
+dbl_fileInNumbers[15]=248 > dbl_fileInNumbers[16]=3
+dbl_fileInNumbers[16]=248 > dbl_fileInNumbers[17]=25
+dbl_fileInNumbers[17]=248 > dbl_fileInNumbers[18]=127
+dbl_fileInNumbers[18]=248 > dbl_fileInNumbers[19]=142
+dbl_fileInNumbers[19]=248 > dbl_fileInNumbers[20]=151
+dbl_fileInNumbers[20]=248 > dbl_fileInNumbers[21]=177
+dbl_fileInNumbers[21]=248 > dbl_fileInNumbers[22]=189
+dbl_fileInNumbers[22]=248 > dbl_fileInNumbers[23]=210
+dbl_fileInNumbers[23]=248 > dbl_fileInNumbers[24]=212
+dbl_fileInNumbers[24]=248 > dbl_fileInNumbers[25]=226
+dbl_fileInNumbers[25]=248 > dbl_fileInNumbers[26]=240
+dbl_fileInNumbers[26]=248 > dbl_fileInNumbers[27]=243
+dbl_fileInNumbers[14]=141 > dbl_fileInNumbers[15]=3
+dbl_fileInNumbers[15]=141 > dbl_fileInNumbers[16]=25
+dbl_fileInNumbers[16]=141 > dbl_fileInNumbers[17]=127
+dbl_fileInNumbers[13]=112 > dbl_fileInNumbers[14]=3
+dbl_fileInNumbers[14]=112 > dbl_fileInNumbers[15]=25
+dbl_fileInNumbers[12]=223 > dbl_fileInNumbers[13]=3
+dbl_fileInNumbers[13]=223 > dbl_fileInNumbers[14]=25
+dbl_fileInNumbers[14]=223 > dbl_fileInNumbers[15]=112
+dbl_fileInNumbers[15]=223 > dbl_fileInNumbers[16]=127
+dbl_fileInNumbers[16]=223 > dbl_fileInNumbers[17]=141
+dbl_fileInNumbers[17]=223 > dbl_fileInNumbers[18]=142
+dbl_fileInNumbers[18]=223 > dbl_fileInNumbers[19]=151
+dbl_fileInNumbers[19]=223 > dbl_fileInNumbers[20]=177
+dbl_fileInNumbers[20]=223 > dbl_fileInNumbers[21]=189
+dbl_fileInNumbers[21]=223 > dbl_fileInNumbers[22]=210
+dbl_fileInNumbers[22]=223 > dbl_fileInNumbers[23]=212
+dbl_fileInNumbers[11]=206 > dbl_fileInNumbers[12]=3
+dbl_fileInNumbers[12]=206 > dbl_fileInNumbers[13]=25
+dbl_fileInNumbers[13]=206 > dbl_fileInNumbers[14]=112
+dbl_fileInNumbers[14]=206 > dbl_fileInNumbers[15]=127
+dbl_fileInNumbers[15]=206 > dbl_fileInNumbers[16]=141
+dbl_fileInNumbers[16]=206 > dbl_fileInNumbers[17]=142
+dbl_fileInNumbers[17]=206 > dbl_fileInNumbers[18]=151
+dbl_fileInNumbers[18]=206 > dbl_fileInNumbers[19]=177
+dbl_fileInNumbers[19]=206 > dbl_fileInNumbers[20]=189
+dbl_fileInNumbers[10]=55 > dbl_fileInNumbers[11]=3
+dbl_fileInNumbers[11]=55 > dbl_fileInNumbers[12]=25
+dbl_fileInNumbers[9]=221 > dbl_fileInNumbers[10]=3
+dbl_fileInNumbers[10]=221 > dbl_fileInNumbers[11]=25
+dbl_fileInNumbers[11]=221 > dbl_fileInNumbers[12]=55
+dbl_fileInNumbers[12]=221 > dbl_fileInNumbers[13]=112
+dbl_fileInNumbers[13]=221 > dbl_fileInNumbers[14]=127
+dbl_fileInNumbers[14]=221 > dbl_fileInNumbers[15]=141
+dbl_fileInNumbers[15]=221 > dbl_fileInNumbers[16]=142
+dbl_fileInNumbers[16]=221 > dbl_fileInNumbers[17]=151
+dbl_fileInNumbers[17]=221 > dbl_fileInNumbers[18]=177
+dbl_fileInNumbers[18]=221 > dbl_fileInNumbers[19]=189
+dbl_fileInNumbers[19]=221 > dbl_fileInNumbers[20]=206
+dbl_fileInNumbers[20]=221 > dbl_fileInNumbers[21]=210
+dbl_fileInNumbers[21]=221 > dbl_fileInNumbers[22]=212
+dbl_fileInNumbers[8]=164 > dbl_fileInNumbers[9]=3
+dbl_fileInNumbers[9]=164 > dbl_fileInNumbers[10]=25
+dbl_fileInNumbers[10]=164 > dbl_fileInNumbers[11]=55
+dbl_fileInNumbers[11]=164 > dbl_fileInNumbers[12]=112
+dbl_fileInNumbers[12]=164 > dbl_fileInNumbers[13]=127
+dbl_fileInNumbers[13]=164 > dbl_fileInNumbers[14]=141
+dbl_fileInNumbers[14]=164 > dbl_fileInNumbers[15]=142
+dbl_fileInNumbers[15]=164 > dbl_fileInNumbers[16]=151
+dbl_fileInNumbers[7]=233 > dbl_fileInNumbers[8]=3
+dbl_fileInNumbers[8]=233 > dbl_fileInNumbers[9]=25
+dbl_fileInNumbers[9]=233 > dbl_fileInNumbers[10]=55
+dbl_fileInNumbers[10]=233 > dbl_fileInNumbers[11]=112
+dbl_fileInNumbers[11]=233 > dbl_fileInNumbers[12]=127
+dbl_fileInNumbers[12]=233 > dbl_fileInNumbers[13]=141
+dbl_fileInNumbers[13]=233 > dbl_fileInNumbers[14]=142
+dbl_fileInNumbers[14]=233 > dbl_fileInNumbers[15]=151
+dbl_fileInNumbers[15]=233 > dbl_fileInNumbers[16]=164
+dbl_fileInNumbers[16]=233 > dbl_fileInNumbers[17]=177
+dbl_fileInNumbers[17]=233 > dbl_fileInNumbers[18]=189
+dbl_fileInNumbers[18]=233 > dbl_fileInNumbers[19]=206
+dbl_fileInNumbers[19]=233 > dbl_fileInNumbers[20]=210
+dbl_fileInNumbers[20]=233 > dbl_fileInNumbers[21]=212
+dbl_fileInNumbers[21]=233 > dbl_fileInNumbers[22]=221
+dbl_fileInNumbers[22]=233 > dbl_fileInNumbers[23]=223
+dbl_fileInNumbers[23]=233 > dbl_fileInNumbers[24]=226
+dbl_fileInNumbers[6]=7 > dbl_fileInNumbers[7]=3
+dbl_fileInNumbers[5]=35 > dbl_fileInNumbers[6]=3
+dbl_fileInNumbers[6]=35 > dbl_fileInNumbers[7]=7
+dbl_fileInNumbers[7]=35 > dbl_fileInNumbers[8]=25
+dbl_fileInNumbers[4]=257 > dbl_fileInNumbers[5]=3
+dbl_fileInNumbers[5]=257 > dbl_fileInNumbers[6]=7
+dbl_fileInNumbers[6]=257 > dbl_fileInNumbers[7]=25
+dbl_fileInNumbers[7]=257 > dbl_fileInNumbers[8]=35
+dbl_fileInNumbers[8]=257 > dbl_fileInNumbers[9]=55
+dbl_fileInNumbers[9]=257 > dbl_fileInNumbers[10]=112
+dbl_fileInNumbers[10]=257 > dbl_fileInNumbers[11]=127
+dbl_fileInNumbers[11]=257 > dbl_fileInNumbers[12]=141
+dbl_fileInNumbers[12]=257 > dbl_fileInNumbers[13]=142
+dbl_fileInNumbers[13]=257 > dbl_fileInNumbers[14]=151
+dbl_fileInNumbers[14]=257 > dbl_fileInNumbers[15]=164
+dbl_fileInNumbers[15]=257 > dbl_fileInNumbers[16]=177
+dbl_fileInNumbers[16]=257 > dbl_fileInNumbers[17]=189
+dbl_fileInNumbers[17]=257 > dbl_fileInNumbers[18]=206
+dbl_fileInNumbers[18]=257 > dbl_fileInNumbers[19]=210
+dbl_fileInNumbers[19]=257 > dbl_fileInNumbers[20]=212
+dbl_fileInNumbers[20]=257 > dbl_fileInNumbers[21]=221
+dbl_fileInNumbers[21]=257 > dbl_fileInNumbers[22]=223
+dbl_fileInNumbers[22]=257 > dbl_fileInNumbers[23]=226
+dbl_fileInNumbers[23]=257 > dbl_fileInNumbers[24]=233
+dbl_fileInNumbers[24]=257 > dbl_fileInNumbers[25]=240
+dbl_fileInNumbers[25]=257 > dbl_fileInNumbers[26]=243
+dbl_fileInNumbers[26]=257 > dbl_fileInNumbers[27]=248
+dbl_fileInNumbers[3]=200 > dbl_fileInNumbers[4]=3
+dbl_fileInNumbers[4]=200 > dbl_fileInNumbers[5]=7
+dbl_fileInNumbers[5]=200 > dbl_fileInNumbers[6]=25
+dbl_fileInNumbers[6]=200 > dbl_fileInNumbers[7]=35
+dbl_fileInNumbers[7]=200 > dbl_fileInNumbers[8]=55
+dbl_fileInNumbers[8]=200 > dbl_fileInNumbers[9]=112
+dbl_fileInNumbers[9]=200 > dbl_fileInNumbers[10]=127
+dbl_fileInNumbers[10]=200 > dbl_fileInNumbers[11]=141
+dbl_fileInNumbers[11]=200 > dbl_fileInNumbers[12]=142
+dbl_fileInNumbers[12]=200 > dbl_fileInNumbers[13]=151
+dbl_fileInNumbers[13]=200 > dbl_fileInNumbers[14]=164
+dbl_fileInNumbers[14]=200 > dbl_fileInNumbers[15]=177
+dbl_fileInNumbers[15]=200 > dbl_fileInNumbers[16]=189
+dbl_fileInNumbers[2]=269 > dbl_fileInNumbers[3]=3
+dbl_fileInNumbers[3]=269 > dbl_fileInNumbers[4]=7
+dbl_fileInNumbers[4]=269 > dbl_fileInNumbers[5]=25
+dbl_fileInNumbers[5]=269 > dbl_fileInNumbers[6]=35
+dbl_fileInNumbers[6]=269 > dbl_fileInNumbers[7]=55
+dbl_fileInNumbers[7]=269 > dbl_fileInNumbers[8]=112
+dbl_fileInNumbers[8]=269 > dbl_fileInNumbers[9]=127
+dbl_fileInNumbers[9]=269 > dbl_fileInNumbers[10]=141
+dbl_fileInNumbers[10]=269 > dbl_fileInNumbers[11]=142
+dbl_fileInNumbers[11]=269 > dbl_fileInNumbers[12]=151
+dbl_fileInNumbers[12]=269 > dbl_fileInNumbers[13]=164
+dbl_fileInNumbers[13]=269 > dbl_fileInNumbers[14]=177
+dbl_fileInNumbers[14]=269 > dbl_fileInNumbers[15]=189
+dbl_fileInNumbers[15]=269 > dbl_fileInNumbers[16]=200
+dbl_fileInNumbers[16]=269 > dbl_fileInNumbers[17]=206
+dbl_fileInNumbers[17]=269 > dbl_fileInNumbers[18]=210
+dbl_fileInNumbers[18]=269 > dbl_fileInNumbers[19]=212
+dbl_fileInNumbers[19]=269 > dbl_fileInNumbers[20]=221
+dbl_fileInNumbers[20]=269 > dbl_fileInNumbers[21]=223
+dbl_fileInNumbers[21]=269 > dbl_fileInNumbers[22]=226
+dbl_fileInNumbers[22]=269 > dbl_fileInNumbers[23]=233
+dbl_fileInNumbers[23]=269 > dbl_fileInNumbers[24]=240
+dbl_fileInNumbers[24]=269 > dbl_fileInNumbers[25]=243
+dbl_fileInNumbers[25]=269 > dbl_fileInNumbers[26]=248
+dbl_fileInNumbers[26]=269 > dbl_fileInNumbers[27]=257
+dbl_fileInNumbers[27]=269 > dbl_fileInNumbers[28]=265
+dbl_fileInNumbers[1]=120 > dbl_fileInNumbers[2]=3
+dbl_fileInNumbers[2]=120 > dbl_fileInNumbers[3]=7
+dbl_fileInNumbers[3]=120 > dbl_fileInNumbers[4]=25
+dbl_fileInNumbers[4]=120 > dbl_fileInNumbers[5]=35
+dbl_fileInNumbers[5]=120 > dbl_fileInNumbers[6]=55
+dbl_fileInNumbers[6]=120 > dbl_fileInNumbers[7]=112
+dbl_fileInNumbers[0]=245 > dbl_fileInNumbers[1]=3
+dbl_fileInNumbers[1]=245 > dbl_fileInNumbers[2]=7
+dbl_fileInNumbers[2]=245 > dbl_fileInNumbers[3]=25
+dbl_fileInNumbers[3]=245 > dbl_fileInNumbers[4]=35
+dbl_fileInNumbers[4]=245 > dbl_fileInNumbers[5]=55
+dbl_fileInNumbers[5]=245 > dbl_fileInNumbers[6]=112
+dbl_fileInNumbers[6]=245 > dbl_fileInNumbers[7]=120
+dbl_fileInNumbers[7]=245 > dbl_fileInNumbers[8]=127
+dbl_fileInNumbers[8]=245 > dbl_fileInNumbers[9]=141
+dbl_fileInNumbers[9]=245 > dbl_fileInNumbers[10]=142
+dbl_fileInNumbers[10]=245 > dbl_fileInNumbers[11]=151
+dbl_fileInNumbers[11]=245 > dbl_fileInNumbers[12]=164
+dbl_fileInNumbers[12]=245 > dbl_fileInNumbers[13]=177
+dbl_fileInNumbers[13]=245 > dbl_fileInNumbers[14]=189
+dbl_fileInNumbers[14]=245 > dbl_fileInNumbers[15]=200
+dbl_fileInNumbers[15]=245 > dbl_fileInNumbers[16]=206
+dbl_fileInNumbers[16]=245 > dbl_fileInNumbers[17]=210
+dbl_fileInNumbers[17]=245 > dbl_fileInNumbers[18]=212
+dbl_fileInNumbers[18]=245 > dbl_fileInNumbers[19]=221
+dbl_fileInNumbers[19]=245 > dbl_fileInNumbers[20]=223
+dbl_fileInNumbers[20]=245 > dbl_fileInNumbers[21]=226
+dbl_fileInNumbers[21]=245 > dbl_fileInNumbers[22]=233
+dbl_fileInNumbers[22]=245 > dbl_fileInNumbers[23]=240
+dbl_fileInNumbers[23]=245 > dbl_fileInNumbers[24]=243
+dbl_fileLineCount[0]=3
+dbl_fileLineCount[1]=7
+dbl_fileLineCount[2]=25
+dbl_fileLineCount[3]=35
+dbl_fileLineCount[4]=55
+dbl_fileLineCount[5]=112
+dbl_fileLineCount[6]=120
+dbl_fileLineCount[7]=127
+dbl_fileLineCount[8]=141
+dbl_fileLineCount[9]=142
+dbl_fileLineCount[10]=151
+dbl_fileLineCount[11]=164
+dbl_fileLineCount[12]=177
+dbl_fileLineCount[13]=189
+dbl_fileLineCount[14]=200
+dbl_fileLineCount[15]=206
+dbl_fileLineCount[16]=210
+dbl_fileLineCount[17]=212
+dbl_fileLineCount[18]=221
+dbl_fileLineCount[19]=223
+dbl_fileLineCount[20]=226
+dbl_fileLineCount[21]=233
+dbl_fileLineCount[22]=240
+dbl_fileLineCount[23]=243
+dbl_fileLineCount[24]=245
+dbl_fileLineCount[25]=248
+dbl_fileLineCount[26]=257
+dbl_fileLineCount[27]=265
+dbl_fileLineCount[28]=269
+dbl_fileLineCount[29]=272
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[28]=189 > dbl_fileInNumbers[29]=177
+dbl_fileInNumbers[26]=210 > dbl_fileInNumbers[27]=25
+dbl_fileInNumbers[27]=210 > dbl_fileInNumbers[28]=177
+dbl_fileInNumbers[28]=210 > dbl_fileInNumbers[29]=189
+dbl_fileInNumbers[25]=151 > dbl_fileInNumbers[26]=25
+dbl_fileInNumbers[24]=226 > dbl_fileInNumbers[25]=25
+dbl_fileInNumbers[25]=226 > dbl_fileInNumbers[26]=151
+dbl_fileInNumbers[26]=226 > dbl_fileInNumbers[27]=177
+dbl_fileInNumbers[27]=226 > dbl_fileInNumbers[28]=189
+dbl_fileInNumbers[28]=226 > dbl_fileInNumbers[29]=210
+dbl_fileInNumbers[23]=240 > dbl_fileInNumbers[24]=25
+dbl_fileInNumbers[24]=240 > dbl_fileInNumbers[25]=151
+dbl_fileInNumbers[25]=240 > dbl_fileInNumbers[26]=177
+dbl_fileInNumbers[26]=240 > dbl_fileInNumbers[27]=189
+dbl_fileInNumbers[27]=240 > dbl_fileInNumbers[28]=210
+dbl_fileInNumbers[28]=240 > dbl_fileInNumbers[29]=226
+dbl_fileInNumbers[22]=272 > dbl_fileInNumbers[23]=25
+dbl_fileInNumbers[23]=272 > dbl_fileInNumbers[24]=151
+dbl_fileInNumbers[24]=272 > dbl_fileInNumbers[25]=177
+dbl_fileInNumbers[25]=272 > dbl_fileInNumbers[26]=189
+dbl_fileInNumbers[26]=272 > dbl_fileInNumbers[27]=210
+dbl_fileInNumbers[27]=272 > dbl_fileInNumbers[28]=226
+dbl_fileInNumbers[28]=272 > dbl_fileInNumbers[29]=240
+dbl_fileInNumbers[20]=243 > dbl_fileInNumbers[21]=3
+dbl_fileInNumbers[21]=243 > dbl_fileInNumbers[22]=25
+dbl_fileInNumbers[22]=243 > dbl_fileInNumbers[23]=151
+dbl_fileInNumbers[23]=243 > dbl_fileInNumbers[24]=177
+dbl_fileInNumbers[24]=243 > dbl_fileInNumbers[25]=189
+dbl_fileInNumbers[25]=243 > dbl_fileInNumbers[26]=210
+dbl_fileInNumbers[26]=243 > dbl_fileInNumbers[27]=226
+dbl_fileInNumbers[27]=243 > dbl_fileInNumbers[28]=240
+dbl_fileInNumbers[19]=212 > dbl_fileInNumbers[20]=3
+dbl_fileInNumbers[20]=212 > dbl_fileInNumbers[21]=25
+dbl_fileInNumbers[21]=212 > dbl_fileInNumbers[22]=151
+dbl_fileInNumbers[22]=212 > dbl_fileInNumbers[23]=177
+dbl_fileInNumbers[23]=212 > dbl_fileInNumbers[24]=189
+dbl_fileInNumbers[24]=212 > dbl_fileInNumbers[25]=210
+dbl_fileInNumbers[18]=142 > dbl_fileInNumbers[19]=3
+dbl_fileInNumbers[19]=142 > dbl_fileInNumbers[20]=25
+dbl_fileInNumbers[17]=265 > dbl_fileInNumbers[18]=3
+dbl_fileInNumbers[18]=265 > dbl_fileInNumbers[19]=25
+dbl_fileInNumbers[19]=265 > dbl_fileInNumbers[20]=142
+dbl_fileInNumbers[20]=265 > dbl_fileInNumbers[21]=151
+dbl_fileInNumbers[21]=265 > dbl_fileInNumbers[22]=177
+dbl_fileInNumbers[22]=265 > dbl_fileInNumbers[23]=189
+dbl_fileInNumbers[23]=265 > dbl_fileInNumbers[24]=210
+dbl_fileInNumbers[24]=265 > dbl_fileInNumbers[25]=212
+dbl_fileInNumbers[25]=265 > dbl_fileInNumbers[26]=226
+dbl_fileInNumbers[26]=265 > dbl_fileInNumbers[27]=240
+dbl_fileInNumbers[27]=265 > dbl_fileInNumbers[28]=243
+dbl_fileInNumbers[16]=127 > dbl_fileInNumbers[17]=3
+dbl_fileInNumbers[17]=127 > dbl_fileInNumbers[18]=25
+dbl_fileInNumbers[15]=248 > dbl_fileInNumbers[16]=3
+dbl_fileInNumbers[16]=248 > dbl_fileInNumbers[17]=25
+dbl_fileInNumbers[17]=248 > dbl_fileInNumbers[18]=127
+dbl_fileInNumbers[18]=248 > dbl_fileInNumbers[19]=142
+dbl_fileInNumbers[19]=248 > dbl_fileInNumbers[20]=151
+dbl_fileInNumbers[20]=248 > dbl_fileInNumbers[21]=177
+dbl_fileInNumbers[21]=248 > dbl_fileInNumbers[22]=189
+dbl_fileInNumbers[22]=248 > dbl_fileInNumbers[23]=210
+dbl_fileInNumbers[23]=248 > dbl_fileInNumbers[24]=212
+dbl_fileInNumbers[24]=248 > dbl_fileInNumbers[25]=226
+dbl_fileInNumbers[25]=248 > dbl_fileInNumbers[26]=240
+dbl_fileInNumbers[26]=248 > dbl_fileInNumbers[27]=243
+dbl_fileInNumbers[14]=141 > dbl_fileInNumbers[15]=3
+dbl_fileInNumbers[15]=141 > dbl_fileInNumbers[16]=25
+dbl_fileInNumbers[16]=141 > dbl_fileInNumbers[17]=127
+dbl_fileInNumbers[13]=112 > dbl_fileInNumbers[14]=3
+dbl_fileInNumbers[14]=112 > dbl_fileInNumbers[15]=25
+dbl_fileInNumbers[12]=223 > dbl_fileInNumbers[13]=3
+dbl_fileInNumbers[13]=223 > dbl_fileInNumbers[14]=25
+dbl_fileInNumbers[14]=223 > dbl_fileInNumbers[15]=112
+dbl_fileInNumbers[15]=223 > dbl_fileInNumbers[16]=127
+dbl_fileInNumbers[16]=223 > dbl_fileInNumbers[17]=141
+dbl_fileInNumbers[17]=223 > dbl_fileInNumbers[18]=142
+dbl_fileInNumbers[18]=223 > dbl_fileInNumbers[19]=151
+dbl_fileInNumbers[19]=223 > dbl_fileInNumbers[20]=177
+dbl_fileInNumbers[20]=223 > dbl_fileInNumbers[21]=189
+dbl_fileInNumbers[21]=223 > dbl_fileInNumbers[22]=210
+dbl_fileInNumbers[22]=223 > dbl_fileInNumbers[23]=212
+dbl_fileInNumbers[11]=206 > dbl_fileInNumbers[12]=3
+dbl_fileInNumbers[12]=206 > dbl_fileInNumbers[13]=25
+dbl_fileInNumbers[13]=206 > dbl_fileInNumbers[14]=112
+dbl_fileInNumbers[14]=206 > dbl_fileInNumbers[15]=127
+dbl_fileInNumbers[15]=206 > dbl_fileInNumbers[16]=141
+dbl_fileInNumbers[16]=206 > dbl_fileInNumbers[17]=142
+dbl_fileInNumbers[17]=206 > dbl_fileInNumbers[18]=151
+dbl_fileInNumbers[18]=206 > dbl_fileInNumbers[19]=177
+dbl_fileInNumbers[19]=206 > dbl_fileInNumbers[20]=189
+dbl_fileInNumbers[10]=55 > dbl_fileInNumbers[11]=3
+dbl_fileInNumbers[11]=55 > dbl_fileInNumbers[12]=25
+dbl_fileInNumbers[9]=221 > dbl_fileInNumbers[10]=3
+dbl_fileInNumbers[10]=221 > dbl_fileInNumbers[11]=25
+dbl_fileInNumbers[11]=221 > dbl_fileInNumbers[12]=55
+dbl_fileInNumbers[12]=221 > dbl_fileInNumbers[13]=112
+dbl_fileInNumbers[13]=221 > dbl_fileInNumbers[14]=127
+dbl_fileInNumbers[14]=221 > dbl_fileInNumbers[15]=141
+dbl_fileInNumbers[15]=221 > dbl_fileInNumbers[16]=142
+dbl_fileInNumbers[16]=221 > dbl_fileInNumbers[17]=151
+dbl_fileInNumbers[17]=221 > dbl_fileInNumbers[18]=177
+dbl_fileInNumbers[18]=221 > dbl_fileInNumbers[19]=189
+dbl_fileInNumbers[19]=221 > dbl_fileInNumbers[20]=206
+dbl_fileInNumbers[20]=221 > dbl_fileInNumbers[21]=210
+dbl_fileInNumbers[21]=221 > dbl_fileInNumbers[22]=212
+dbl_fileInNumbers[8]=164 > dbl_fileInNumbers[9]=3
+dbl_fileInNumbers[9]=164 > dbl_fileInNumbers[10]=25
+dbl_fileInNumbers[10]=164 > dbl_fileInNumbers[11]=55
+dbl_fileInNumbers[11]=164 > dbl_fileInNumbers[12]=112
+dbl_fileInNumbers[12]=164 > dbl_fileInNumbers[13]=127
+dbl_fileInNumbers[13]=164 > dbl_fileInNumbers[14]=141
+dbl_fileInNumbers[14]=164 > dbl_fileInNumbers[15]=142
+dbl_fileInNumbers[15]=164 > dbl_fileInNumbers[16]=151
+dbl_fileInNumbers[7]=233 > dbl_fileInNumbers[8]=3
+dbl_fileInNumbers[8]=233 > dbl_fileInNumbers[9]=25
+dbl_fileInNumbers[9]=233 > dbl_fileInNumbers[10]=55
+dbl_fileInNumbers[10]=233 > dbl_fileInNumbers[11]=112
+dbl_fileInNumbers[11]=233 > dbl_fileInNumbers[12]=127
+dbl_fileInNumbers[12]=233 > dbl_fileInNumbers[13]=141
+dbl_fileInNumbers[13]=233 > dbl_fileInNumbers[14]=142
+dbl_fileInNumbers[14]=233 > dbl_fileInNumbers[15]=151
+dbl_fileInNumbers[15]=233 > dbl_fileInNumbers[16]=164
+dbl_fileInNumbers[16]=233 > dbl_fileInNumbers[17]=177
+dbl_fileInNumbers[17]=233 > dbl_fileInNumbers[18]=189
+dbl_fileInNumbers[18]=233 > dbl_fileInNumbers[19]=206
+dbl_fileInNumbers[19]=233 > dbl_fileInNumbers[20]=210
+dbl_fileInNumbers[20]=233 > dbl_fileInNumbers[21]=212
+dbl_fileInNumbers[21]=233 > dbl_fileInNumbers[22]=221
+dbl_fileInNumbers[22]=233 > dbl_fileInNumbers[23]=223
+dbl_fileInNumbers[23]=233 > dbl_fileInNumbers[24]=226
+dbl_fileInNumbers[6]=7 > dbl_fileInNumbers[7]=3
+dbl_fileInNumbers[5]=35 > dbl_fileInNumbers[6]=3
+dbl_fileInNumbers[6]=35 > dbl_fileInNumbers[7]=7
+dbl_fileInNumbers[7]=35 > dbl_fileInNumbers[8]=25
+dbl_fileInNumbers[4]=257 > dbl_fileInNumbers[5]=3
+dbl_fileInNumbers[5]=257 > dbl_fileInNumbers[6]=7
+dbl_fileInNumbers[6]=257 > dbl_fileInNumbers[7]=25
+dbl_fileInNumbers[7]=257 > dbl_fileInNumbers[8]=35
+dbl_fileInNumbers[8]=257 > dbl_fileInNumbers[9]=55
+dbl_fileInNumbers[9]=257 > dbl_fileInNumbers[10]=112
+dbl_fileInNumbers[10]=257 > dbl_fileInNumbers[11]=127
+dbl_fileInNumbers[11]=257 > dbl_fileInNumbers[12]=141
+dbl_fileInNumbers[12]=257 > dbl_fileInNumbers[13]=142
+dbl_fileInNumbers[13]=257 > dbl_fileInNumbers[14]=151
+dbl_fileInNumbers[14]=257 > dbl_fileInNumbers[15]=164
+dbl_fileInNumbers[15]=257 > dbl_fileInNumbers[16]=177
+dbl_fileInNumbers[16]=257 > dbl_fileInNumbers[17]=189
+dbl_fileInNumbers[17]=257 > dbl_fileInNumbers[18]=206
+dbl_fileInNumbers[18]=257 > dbl_fileInNumbers[19]=210
+dbl_fileInNumbers[19]=257 > dbl_fileInNumbers[20]=212
+dbl_fileInNumbers[20]=257 > dbl_fileInNumbers[21]=221
+dbl_fileInNumbers[21]=257 > dbl_fileInNumbers[22]=223
+dbl_fileInNumbers[22]=257 > dbl_fileInNumbers[23]=226
+dbl_fileInNumbers[23]=257 > dbl_fileInNumbers[24]=233
+dbl_fileInNumbers[24]=257 > dbl_fileInNumbers[25]=240
+dbl_fileInNumbers[25]=257 > dbl_fileInNumbers[26]=243
+dbl_fileInNumbers[26]=257 > dbl_fileInNumbers[27]=248
+dbl_fileInNumbers[3]=200 > dbl_fileInNumbers[4]=3
+dbl_fileInNumbers[4]=200 > dbl_fileInNumbers[5]=7
+dbl_fileInNumbers[5]=200 > dbl_fileInNumbers[6]=25
+dbl_fileInNumbers[6]=200 > dbl_fileInNumbers[7]=35
+dbl_fileInNumbers[7]=200 > dbl_fileInNumbers[8]=55
+dbl_fileInNumbers[8]=200 > dbl_fileInNumbers[9]=112
+dbl_fileInNumbers[9]=200 > dbl_fileInNumbers[10]=127
+dbl_fileInNumbers[10]=200 > dbl_fileInNumbers[11]=141
+dbl_fileInNumbers[11]=200 > dbl_fileInNumbers[12]=142
+dbl_fileInNumbers[12]=200 > dbl_fileInNumbers[13]=151
+dbl_fileInNumbers[13]=200 > dbl_fileInNumbers[14]=164
+dbl_fileInNumbers[14]=200 > dbl_fileInNumbers[15]=177
+dbl_fileInNumbers[15]=200 > dbl_fileInNumbers[16]=189
+dbl_fileInNumbers[2]=269 > dbl_fileInNumbers[3]=3
+dbl_fileInNumbers[3]=269 > dbl_fileInNumbers[4]=7
+dbl_fileInNumbers[4]=269 > dbl_fileInNumbers[5]=25
+dbl_fileInNumbers[5]=269 > dbl_fileInNumbers[6]=35
+dbl_fileInNumbers[6]=269 > dbl_fileInNumbers[7]=55
+dbl_fileInNumbers[7]=269 > dbl_fileInNumbers[8]=112
+dbl_fileInNumbers[8]=269 > dbl_fileInNumbers[9]=127
+dbl_fileInNumbers[9]=269 > dbl_fileInNumbers[10]=141
+dbl_fileInNumbers[10]=269 > dbl_fileInNumbers[11]=142
+dbl_fileInNumbers[11]=269 > dbl_fileInNumbers[12]=151
+dbl_fileInNumbers[12]=269 > dbl_fileInNumbers[13]=164
+dbl_fileInNumbers[13]=269 > dbl_fileInNumbers[14]=177
+dbl_fileInNumbers[14]=269 > dbl_fileInNumbers[15]=189
+dbl_fileInNumbers[15]=269 > dbl_fileInNumbers[16]=200
+dbl_fileInNumbers[16]=269 > dbl_fileInNumbers[17]=206
+dbl_fileInNumbers[17]=269 > dbl_fileInNumbers[18]=210
+dbl_fileInNumbers[18]=269 > dbl_fileInNumbers[19]=212
+dbl_fileInNumbers[19]=269 > dbl_fileInNumbers[20]=221
+dbl_fileInNumbers[20]=269 > dbl_fileInNumbers[21]=223
+dbl_fileInNumbers[21]=269 > dbl_fileInNumbers[22]=226
+dbl_fileInNumbers[22]=269 > dbl_fileInNumbers[23]=233
+dbl_fileInNumbers[23]=269 > dbl_fileInNumbers[24]=240
+dbl_fileInNumbers[24]=269 > dbl_fileInNumbers[25]=243
+dbl_fileInNumbers[25]=269 > dbl_fileInNumbers[26]=248
+dbl_fileInNumbers[26]=269 > dbl_fileInNumbers[27]=257
+dbl_fileInNumbers[27]=269 > dbl_fileInNumbers[28]=265
+dbl_fileInNumbers[1]=120 > dbl_fileInNumbers[2]=3
+dbl_fileInNumbers[2]=120 > dbl_fileInNumbers[3]=7
+dbl_fileInNumbers[3]=120 > dbl_fileInNumbers[4]=25
+dbl_fileInNumbers[4]=120 > dbl_fileInNumbers[5]=35
+dbl_fileInNumbers[5]=120 > dbl_fileInNumbers[6]=55
+dbl_fileInNumbers[6]=120 > dbl_fileInNumbers[7]=112
+dbl_fileInNumbers[0]=245 > dbl_fileInNumbers[1]=3
+dbl_fileInNumbers[1]=245 > dbl_fileInNumbers[2]=7
+dbl_fileInNumbers[2]=245 > dbl_fileInNumbers[3]=25
+dbl_fileInNumbers[3]=245 > dbl_fileInNumbers[4]=35
+dbl_fileInNumbers[4]=245 > dbl_fileInNumbers[5]Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[28]=189 > dbl_fileInNumbers[29]=177
+dbl_fileInNumbers[26]=210 > dbl_fileInNumbers[27]=25
+dbl_fileInNumbers[27]=210 > dbl_fileInNumbers[28]=177
+dbl_fileInNumbers[28]=210 > dbl_fileInNumbers[29]=189
+dbl_fileInNumbers[25]=151 > dbl_fileInNumbers[26]=25
+dbl_fileInNumbers[24]=226 > dbl_fileInNumbers[25]=25
+dbl_fileInNumbers[25]=226 > dbl_fileInNumbers[26]=151
+dbl_fileInNumbers[26]=226 > dbl_fileInNumbers[27]=177
+dbl_fileInNumbers[27]=226 > dbl_fileInNumbers[28]=189
+dbl_fileInNumbers[28]=226 > dbl_fileInNumbers[29]=210
+dbl_fileInNumbers[23]=240 > dbl_fileInNumbers[24]=25
+dbl_fileInNumbers[24]=240 > dbl_fileInNumbers[25]=151
+dbl_fileInNumbers[25]=240 > dbl_fileInNumbers[26]=177
+dbl_fileInNumbers[26]=240 > dbl_fileInNumbers[27]=189
+dbl_fileInNumbers[27]=240 > dbl_fileInNumbers[28]=210
+dbl_fileInNumbers[28]=240 > dbl_fileInNumbers[29]=226
+dbl_fileInNumbers[22]=272 > dbl_fileInNumbers[23]=25
+dbl_fileInNumbers[23]=272 > dbl_fileInNumbers[24]=151
+dbl_fileInNumbers[24]=272 > dbl_fileInNumbers[25]=177
+dbl_fileInNumbers[25]=272 > dbl_fileInNumbers[26]=189
+dbl_fileInNumbers[26]=272 > dbl_fileInNumbers[27]=210
+dbl_fileInNumbers[27]=272 > dbl_fileInNumbers[28]=226
+dbl_fileInNumbers[28]=272 > dbl_fileInNumbers[29]=240
+dbl_fileInNumbers[20]=243 > dbl_fileInNumbers[21]=3
+dbl_fileInNumbers[21]=243 > dbl_fileInNumbers[22]=25
+dbl_fileInNumbers[22]=243 > dbl_fileInNumbers[23]=151
+dbl_fileInNumbers[23]=243 > dbl_fileInNumbers[24]=177
+dbl_fileInNumbers[24]=243 > dbl_fileInNumbers[25]=189
+dbl_fileInNumbers[25]=243 > dbl_fileInNumbers[26]=210
+dbl_fileInNumbers[26]=243 > dbl_fileInNumbers[27]=226
+dbl_fileInNumbers[27]=243 > dbl_fileInNumbers[28]=240
+dbl_fileInNumbers[19]=212 > dbl_fileInNumbers[20]=3
+dbl_fileInNumbers[20]=212 > dbl_fileInNumbers[21]=25
+dbl_fileInNumbers[21]=212 > dbl_fileInNumbers[22]=151
+dbl_fileInNumbers[22]=212 > dbl_fileInNumbers[23]=177
+dbl_fileInNumbers[23]=212 > dbl_fileInNumbers[24]=189
+dbl_fileInNumbers[24]=212 > dbl_fileInNumbers[25]=210
+dbl_fileInNumbers[18]=142 > dbl_fileInNumbers[19]=3
+dbl_fileInNumbers[19]=142 > dbl_fileInNumbers[20]=25
+dbl_fileInNumbers[17]=265 > dbl_fileInNumbers[18]=3
+dbl_fileInNumbers[18]=265 > dbl_fileInNumbers[19]=25
+dbl_fileInNumbers[19]=265 > dbl_fileInNumbers[20]=142
+dbl_fileInNumbers[20]=265 > dbl_fileInNumbers[21]=151
+dbl_fileInNumbers[21]=265 > dbl_fileInNumbers[22]=177
+dbl_fileInNumbers[22]=265 > dbl_fileInNumbers[23]=189
+dbl_fileInNumbers[23]=265 > dbl_fileInNumbers[24]=210
+dbl_fileInNumbers[24]=265 > dbl_fileInNumbers[25]=212
+dbl_fileInNumbers[25]=265 > dbl_fileInNumbers[26]=226
+dbl_fileInNumbers[26]=265 > dbl_fileInNumbers[27]=240
+dbl_fileInNumbers[27]=265 > dbl_fileInNumbers[28]=243
+dbl_fileInNumbers[16]=127 > dbl_fileInNumbers[17]=3
+dbl_fileInNumbers[17]=127 > dbl_fileInNumbers[18]=25
+dbl_fileInNumbers[15]=248 > dbl_fileInNumbers[16]=3
+dbl_fileInNumbers[16]=248 > dbl_fileInNumbers[17]=25
+dbl_fileInNumbers[17]=248 > dbl_fileInNumbers[18]=127
+dbl_fileInNumbers[18]=248 > dbl_fileInNumbers[19]=142
+dbl_fileInNumbers[19]=248 > dbl_fileInNumbers[20]=151
+dbl_fileInNumbers[20]=248 > dbl_fileInNumbers[21]=177
+dbl_fileInNumbers[21]=248 > dbl_fileInNumbers[22]=189
+dbl_fileInNumbers[22]=248 > dbl_fileInNumbers[23]=210
+dbl_fileInNumbers[23]=248 > dbl_fileInNumbers[24]=212
+dbl_fileInNumbers[24]=248 > dbl_fileInNumbers[25]=226
+dbl_fileInNumbers[25]=248 > dbl_fileInNumbers[26]=240
+dbl_fileInNumbers[26]=248 > dbl_fileInNumbers[27]=243
+dbl_fileInNumbers[14]=141 > dbl_fileInNumbers[15]=3
+dbl_fileInNumbers[15]=141 > dbl_fileInNumbers[16]=25
+dbl_fileInNumbers[16]=141 > dbl_fileInNumbers[17]=127
+dbl_fileInNumbers[13]=112 > dbl_fileInNumbers[14]=3
+dbl_fileInNumbers[14]=112 > dbl_fileInNumbers[15]=25
+dbl_fileInNumbers[12]=223 > dbl_fileInNumbers[13]=3
+dbl_fileInNumbers[13]=223 > dbl_fileInNumbers[14]=25
+dbl_fileInNumbers[14]=223 > dbl_fileInNumbers[15]=112
+dbl_fileInNumbers[15]=223 > dbl_fileInNumbers[16]=127
+dbl_fileInNumbers[16]=223 > dbl_fileInNumbers[17]=141
+dbl_fileInNumbers[17]=223 > dbl_fileInNumbers[18]=142
+dbl_fileInNumbers[18]=223 > dbl_fileInNumbers[19]=151
+dbl_fileInNumbers[19]=223 > dbl_fileInNumbers[20]=177
+dbl_fileInNumbers[20]=223 > dbl_fileInNumbers[21]=189
+dbl_fileInNumbers[21]=223 > dbl_fileInNumbers[22]=210
+dbl_fileInNumbers[22]=223 > dbl_fileInNumbers[23]=212
+dbl_fileInNumbers[11]=206 > dbl_fileInNumbers[12]=3
+dbl_fileInNumbers[12]=206 > dbl_fileInNumbers[13]=25
+dbl_fileInNumbers[13]=206 > dbl_fileInNumbers[14]=112
+dbl_fileInNumbers[14]=206 > dbl_fileInNumbers[15]=127
+dbl_fileInNumbers[15]=206 > dbl_fileInNumbers[16]=141
+dbl_fileInNumbers[16]=206 > dbl_fileInNumbers[17]=142
+dbl_fileInNumbers[17]=206 > dbl_fileInNumbers[18]=151
+dbl_fileInNumbers[18]=206 > dbl_fileInNumbers[19]=177
+dbl_fileInNumbers[19]=206 > dbl_fileInNumbers[20]=189
+dbl_fileInNumbers[10]=55 > dbl_fileInNumbers[11]=3
+dbl_fileInNumbers[11]=55 > dbl_fileInNumbers[12]=25
+dbl_fileInNumbers[9]=221 > dbl_fileInNumbers[10]=3
+dbl_fileInNumbers[10]=221 > dbl_fileInNumbers[11]=25
+dbl_fileInNumbers[11]=221 > dbl_fileInNumbers[12]=55
+dbl_fileInNumbers[12]=221 > dbl_fileInNumbers[13]=112
+dbl_fileInNumbers[13]=221 > dbl_fileInNumbers[14]=127
+dbl_fileInNumbers[14]=221 > dbl_fileInNumbers[15]=141
+dbl_fileInNumbers[15]=221 > dbl_fileInNumbers[16]=142
+dbl_fileInNumbers[16]=221 > dbl_fileInNumbers[17]=151
+dbl_fileInNumbers[17]=221 > dbl_fileInNumbers[18]=177
+dbl_fileInNumbers[18]=221 > dbl_fileInNumbers[19]=189
+dbl_fileInNumbers[19]=221 > dbl_fileInNumbers[20]=206
+dbl_fileInNumbers[20]=221 > dbl_fileInNumbers[21]=210
+dbl_fileInNumbers[21]=221 > dbl_fileInNumbers[22]=212
+dbl_fileInNumbers[8]=164 > dbl_fileInNumbers[9]=3
+dbl_fileInNumbers[9]=164 > dbl_fileInNumbers[10]=25
+dbl_fileInNumbers[10]=164 > dbl_fileInNumbers[11]=55
+dbl_fileInNumbers[11]=164 > dbl_fileInNumbers[12]=112
+dbl_fileInNumbers[12]=164 > dbl_fileInNumbers[13]=127
+dbl_fileInNumbers[13]=164 > dbl_fileInNumbers[14]=141
+dbl_fileInNumbers[14]=164 > dbl_fileInNumbers[15]=142
+dbl_fileInNumbers[15]=164 > dbl_fileInNumbers[16]=151
+dbl_fileInNumbers[7]=233 > dbl_fileInNumbers[8]=3
+dbl_fileInNumbers[8]=233 > dbl_fileInNumbers[9]=25
+dbl_fileInNumbers[9]=233 > dbl_fileInNumbers[10]=55
+dbl_fileInNumbers[10]=233 > dbl_fileInNumbers[11]=112
+dbl_fileInNumbers[11]=233 > dbl_fileInNumbers[12]=127
+dbl_fileInNumbers[12]=233 > dbl_fileInNumbers[13]=141
+dbl_fileInNumbers[13]=233 > dbl_fileInNumbers[14]=142
+dbl_fileInNumbers[14]=233 > dbl_fileInNumbers[15]=151
+dbl_fileInNumbers[15]=233 > dbl_fileInNumbers[16]=164
+dbl_fileInNumbers[16]=233 > dbl_fileInNumbers[17]=177
+dbl_fileInNumbers[17]=233 > dbl_fileInNumbers[18]=189
+dbl_fileInNumbers[18]=233 > dbl_fileInNumbers[19]=206
+dbl_fileInNumbers[19]=233 > dbl_fileInNumbers[20]=210
+dbl_fileInNumbers[20]=233 > dbl_fileInNumbers[21]=212
+dbl_fileInNumbers[21]=233 > dbl_fileInNumbers[22]=221
+dbl_fileInNumbers[22]=233 > dbl_fileInNumbers[23]=223
+dbl_fileInNumbers[23]=233 > dbl_fileInNumbers[24]=226
+dbl_fileInNumbers[6]=7 > dbl_fileInNumbers[7]=3
+dbl_fileInNumbers[5]=35 > dbl_fileInNumbers[6]=3
+dbl_fileInNumbers[6]=35 > dbl_fileInNumbers[7]=7
+dbl_fileInNumbers[7]=35 > dbl_fileInNumbers[8]=25
+dbl_fileInNumbers[4]=257 > dbl_fileInNumbers[5]=3
+dbl_fileInNumbers[5]=257 > dbl_fileInNumbers[6]=7
+dbl_fileInNumbers[6]=257 > dbl_fileInNumbers[7]=25
+dbl_fileInNumbers[7]=257 > dbl_fileInNumbers[8]=35
+dbl_fileInNumbers[8]=257 > dbl_fileInNumbers[9]=55
+dbl_fileInNumbers[9]=257 > dbl_fileInNumbers[10]=112
+dbl_fileInNumbers[10]=257 > dbl_fileInNumbers[11]=127
+dbl_fileInNumbers[11]=257 > dbl_fileInNumbers[12]=141
+dbl_fileInNumbers[12]=257 > dbl_fileInNumbers[13]=142
+dbl_fileInNumbers[13]=257 > dbl_fileInNumbers[14]=151
+dbl_fileInNumbers[14]=257 > dbl_fileInNumbers[15]=164
+dbl_fileInNumbers[15]=257 > dbl_fileInNumbers[16]=177
+dbl_fileInNumbers[16]=257 > dbl_fileInNumbers[17]=189
+dbl_fileInNumbers[17]=257 > dbl_fileInNumbers[18]=206
+dbl_fileInNumbers[18]=257 > dbl_fileInNumbers[19]=210
+dbl_fileInNumbers[19]=257 > dbl_fileInNumbers[20]=212
+dbl_fileInNumbers[20]=257 > dbl_fileInNumbers[21]=221
+dbl_fileInNumbers[21]=257 > dbl_fileInNumbers[22]=223
+dbl_fileInNumbers[22]=257 > dbl_fileInNumbers[23]=226
+dbl_fileInNumbers[23]=257 > dbl_fileInNumbers[24]=233
+dbl_fileInNumbers[24]=257 > dbl_fileInNumbers[25]=240
+dbl_fileInNumbers[25]=257 > dbl_fileInNumbers[26]=243
+dbl_fileInNumbers[26]=257 > dbl_fileInNumbers[27]=248
+dbl_fileInNumbers[3]=200 > dbl_fileInNumbers[4]=3
+dbl_fileInNumbers[4]=200 > dbl_fileInNumbers[5]=7
+dbl_fileInNumbers[5]=200 > dbl_fileInNumbers[6]=25
+dbl_fileInNumbers[6]=200 > dbl_fileInNumbers[7]=35
+dbl_fileInNumbers[7]=200 > dbl_fileInNumbers[8]=55
+dbl_fileInNumbers[8]=200 > dbl_fileInNumbers[9]=112
+dbl_fileInNumbers[9]=200 > dbl_fileInNumbers[10]=127
+dbl_fileInNumbers[10]=200 > dbl_fileInNumbers[11]=141
+dbl_fileInNumbers[11]=200 > dbl_fileInNumbers[12]=142
+dbl_fileInNumbers[12]=200 > dbl_fileInNumbers[13]=151
+dbl_fileInNumbers[13]=200 > dbl_fileInNumbers[14]=164
+dbl_fileInNumbers[14]=200 > dbl_fileInNumbers[15]=177
+dbl_fileInNumbers[15]=200 > dbl_fileInNumbers[16]=189
+dbl_fileInNumbers[2]=269 > dbl_fileInNumbers[3]=3
+dbl_fileInNumbers[3]=269 > dbl_fileInNumbers[4]=7
+dbl_fileInNumbers[4]=269 > dbl_fileInNumbers[5]=25
+dbl_fileInNumbers[5]=269 > dbl_fileInNumbers[6]=35
+dbl_fileInNumbers[6]=269 > dbl_fileInNumbers[7]=55
+dbl_fileInNumbers[7]=269 > dbl_fileInNumbers[8]=112
+dbl_fileInNumbers[8]=269 > dbl_fileInNumbers[9]=127
+dbl_fileInNumbers[9]=269 > dbl_fileInNumbers[10]=141
+dbl_fileInNumbers[10]=269 > dbl_fileInNumbers[11]=142
+dbl_fileInNumbers[11]=269 > dbl_fileInNumbers[12]=151
+dbl_fileInNumbers[12]=269 > dbl_fileInNumbers[13]=164
+dbl_fileInNumbers[13]=269 > dbl_fileInNumbers[14]=177
+dbl_fileInNumbers[14]=269 > dbl_fileInNumbers[15]=189
+dbl_fileInNumbers[15]=269 > dbl_fileInNumbers[16]=200
+dbl_fileInNumbers[16]=269 > dbl_fileInNumbers[17]=206
+dbl_fileInNumbers[17]=269 > dbl_fileInNumbers[18]=210
+dbl_fileInNumbers[18]=269 > dbl_fileInNumbers[19]=212
+dbl_fileInNumbers[19]=269 > dbl_fileInNumbers[20]=221
+dbl_fileInNumbers[20]=269 > dbl_fileInNumbers[21]=223
+dbl_fileInNumbers[21]=269 > dbl_fileInNumbers[22]=226
+dbl_fileInNumbers[22]=269 > dbl_fileInNumbers[23]=233
+dbl_fileInNumbers[23]=269 > dbl_fileInNumbers[24]=240
+dbl_fileInNumbers[24]=269 > dbl_fileInNumbers[25]=243
+dbl_fileInNumbers[25]=269 > dbl_fileInNumbers[26]=248
+dbl_fileInNumbers[26]=269 > dbl_fileInNumbers[27]=257
+dbl_fileInNumbers[27]=269 > dbl_fileInNumbers[28]=265
+dbl_fileInNumbers[1]=120 > dbl_fileInNumbers[2]=3
+dbl_fileInNumbers[2]=120 > dbl_fileInNumbers[3]=7
+dbl_fileInNumbers[3]=120 > dbl_fileInNumbers[4]=25
+dbl_fileInNumbers[4]=120 > dbl_fileInNumbers[5]=35
+dbl_fileInNumbers[5]=120 > dbl_fileInNumbers[6]=55
+dbl_fileInNumbers[6]=120 > dbl_fileInNumbers[7]=112
+dbl_fileInNumbers[0]=245 > dbl_fileInNumbers[1]=3
+dbl_fileInNumbers[1]=245 > dbl_fileInNumbers[2]=7
+dbl_fileInNumbers[2]=245 > dbl_fileInNumbers[3]=25
+dbl_fileInNumbers[3]=245 > dbl_fileInNumbers[4]=35
+dbl_fileInNumbers[4]=245 > dbl_fileInNumbers[5]Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[28]=189 > dbl_fileInNumbers[29]=177
+dbl_fileInNumbers[26]=210 > dbl_fileInNumbers[27]=25
+dbl_fileInNumbers[27]=210 > dbl_fileInNumbers[28]=177
+dbl_fileInNumbers[28]=210 > dbl_fileInNumbers[29]=189
+dbl_fileInNumbers[25]=151 > dbl_fileInNumbers[26]=25
+dbl_fileInNumbers[24]=226 > dbl_fileInNumbers[25]=25
+dbl_fileInNumbers[25]=226 > dbl_fileInNumbers[26]=151
+dbl_fileInNumbers[26]=226 > dbl_fileInNumbers[27]=177
+dbl_fileInNumbers[27]=226 > dbl_fileInNumbers[28]=189
+dbl_fileInNumbers[28]=226 > dbl_fileInNumbers[29]=210
+dbl_fileInNumbers[23]=240 > dbl_fileInNumbers[24]=25
+dbl_fileInNumbers[24]=240 > dbl_fileInNumbers[25]=151
+dbl_fileInNumbers[25]=240 > dbl_fileInNumbers[26]=177
+dbl_fileInNumbers[26]=240 > dbl_fileInNumbers[27]=189
+dbl_fileInNumbers[27]=240 > dbl_fileInNumbers[28]=210
+dbl_fileInNumbers[28]=240 > dbl_fileInNumbers[29]=226
+dbl_fileInNumbers[22]=272 > dbl_fileInNumbers[23]=25
+dbl_fileInNumbers[23]=272 > dbl_fileInNumbers[24]=151
+dbl_fileInNumbers[24]=272 > dbl_fileInNumbers[25]=177
+dbl_fileInNumbers[25]=272 > dbl_fileInNumbers[26]=189
+dbl_fileInNumbers[26]=272 > dbl_fileInNumbers[27]=210
+dbl_fileInNumbers[27]=272 > dbl_fileInNumbers[28]=226
+dbl_fileInNumbers[28]=272 > dbl_fileInNumbers[29]=240
+dbl_fileInNumbers[20]=243 > dbl_fileInNumbers[21]=3
+dbl_fileInNumbers[21]=243 > dbl_fileInNumbers[22]=25
+dbl_fileInNumbers[22]=243 > dbl_fileInNumbers[23]=151
+dbl_fileInNumbers[23]=243 > dbl_fileInNumbers[24]=177
+dbl_fileInNumbers[24]=243 > dbl_fileInNumbers[25]=189
+dbl_fileInNumbers[25]=243 > dbl_fileInNumbers[26]=210
+dbl_fileInNumbers[26]=243 > dbl_fileInNumbers[27]=226
+dbl_fileInNumbers[27]=243 > dbl_fileInNumbers[28]=240
+dbl_fileInNumbers[19]=212 > dbl_fileInNumbers[20]=3
+dbl_fileInNumbers[20]=212 > dbl_fileInNumbers[21]=25
+dbl_fileInNumbers[21]=212 > dbl_fileInNumbers[22]=151
+dbl_fileInNumbers[22]=212 > dbl_fileInNumbers[23]=177
+dbl_fileInNumbers[23]=212 > dbl_fileInNumbers[24]=189
+dbl_fileInNumbers[24]=212 > dbl_fileInNumbers[25]=210
+dbl_fileInNumbers[18]=142 > dbl_fileInNumbers[19]=3
+dbl_fileInNumbers[19]=142 > dbl_fileInNumbers[20]=25
+dbl_fileInNumbers[17]=265 > dbl_fileInNumbers[18]=3
+dbl_fileInNumbers[18]=265 > dbl_fileInNumbers[19]=25
+dbl_fileInNumbers[19]=265 > dbl_fileInNumbers[20]=142
+dbl_fileInNumbers[20]=265 > dbl_fileInNumbers[21]=151
+dbl_fileInNumbers[21]=265 > dbl_fileInNumbers[22]=177
+dbl_fileInNumbers[22]=265 > dbl_fileInNumbers[23]=189
+dbl_fileInNumbers[23]=265 > dbl_fileInNumbers[24]=210
+dbl_fileInNumbers[24]=265 > dbl_fileInNumbers[25]=212
+dbl_fileInNumbers[25]=265 > dbl_fileInNumbers[26]=226
+dbl_fileInNumbers[26]=265 > dbl_fileInNumbers[27]=240
+dbl_fileInNumbers[27]=265 > dbl_fileInNumbers[28]=243
+dbl_fileInNumbers[16]=127 > dbl_fileInNumbers[17]=3
+dbl_fileInNumbers[17]=127 > dbl_fileInNumbers[18]=25
+dbl_fileInNumbers[15]=248 > dbl_fileInNumbers[16]=3
+dbl_fileInNumbers[16]=248 > dbl_fileInNumbers[17]=25
+dbl_fileInNumbers[17]=248 > dbl_fileInNumbers[18]=127
+dbl_fileInNumbers[18]=248 > dbl_fileInNumbers[19]=142
+dbl_fileInNumbers[19]=248 > dbl_fileInNumbers[20]=151
+dbl_fileInNumbers[20]=248 > dbl_fileInNumbers[21]=177
+dbl_fileInNumbers[21]=248 > dbl_fileInNumbers[22]=189
+dbl_fileInNumbers[22]=248 > dbl_fileInNumbers[23]=210
+dbl_fileInNumbers[23]=248 > dbl_fileInNumbers[24]=212
+dbl_fileInNumbers[24]=248 > dbl_fileInNumbers[25]=226
+dbl_fileInNumbers[25]=248 > dbl_fileInNumbers[26]=240
+dbl_fileInNumbers[26]=248 > dbl_fileInNumbers[27]=243
+dbl_fileInNumbers[14]=141 > dbl_fileInNumbers[15]=3
+dbl_fileInNumbers[15]=141 > dbl_fileInNumbers[16]=25
+dbl_fileInNumbers[16]=141 > dbl_fileInNumbers[17]=127
+dbl_fileInNumbers[13]=112 > dbl_fileInNumbers[14]=3
+dbl_fileInNumbers[14]=112 > dbl_fileInNumbers[15]=25
+dbl_fileInNumbers[12]=223 > dbl_fileInNumbers[13]=3
+dbl_fileInNumbers[13]=223 > dbl_fileInNumbers[14]=25
+dbl_fileInNumbers[14]=223 > dbl_fileInNumbers[15]=112
+dbl_fileInNumbers[15]=223 > dbl_fileInNumbers[16]=127
+dbl_fileInNumbers[16]=223 > dbl_fileInNumbers[17]=141
+dbl_fileInNumbers[17]=223 > dbl_fileInNumbers[18]=142
+dbl_fileInNumbers[18]=223 > dbl_fileInNumbers[19]=151
+dbl_fileInNumbers[19]=223 > dbl_fileInNumbers[20]=177
+dbl_fileInNumbers[20]=223 > dbl_fileInNumbers[21]=189
+dbl_fileInNumbers[21]=223 > dbl_fileInNumbers[22]=210
+dbl_fileInNumbers[22]=223 > dbl_fileInNumbers[23]=212
+dbl_fileInNumbers[11]=206 > dbl_fileInNumbers[12]=3
+dbl_fileInNumbers[12]=206 > dbl_fileInNumbers[13]=25
+dbl_fileInNumbers[13]=206 > dbl_fileInNumbers[14]=112
+dbl_fileInNumbers[14]=206 > dbl_fileInNumbers[15]=127
+dbl_fileInNumbers[15]=206 > dbl_fileInNumbers[16]=141
+dbl_fileInNumbers[16]=206 > dbl_fileInNumbers[17]=142
+dbl_fileInNumbers[17]=206 > dbl_fileInNumbers[18]=151
+dbl_fileInNumbers[18]=206 > dbl_fileInNumbers[19]=177
+dbl_fileInNumbers[19]=206 > dbl_fileInNumbers[20]=189
+dbl_fileInNumbers[10]=55 > dbl_fileInNumbers[11]=3
+dbl_fileInNumbers[11]=55 > dbl_fileInNumbers[12]=25
+dbl_fileInNumbers[9]=221 > dbl_fileInNumbers[10]=3
+dbl_fileInNumbers[10]=221 > dbl_fileInNumbers[11]=25
+dbl_fileInNumbers[11]=221 > dbl_fileInNumbers[12]=55
+dbl_fileInNumbers[12]=221 > dbl_fileInNumbers[13]=112
+dbl_fileInNumbers[13]=221 > dbl_fileInNumbers[14]=127
+dbl_fileInNumbers[14]=221 > dbl_fileInNumbers[15]=141
+dbl_fileInNumbers[15]=221 > dbl_fileInNumbers[16]=142
+dbl_fileInNumbers[16]=221 > dbl_fileInNumbers[17]=151
+dbl_fileInNumbers[17]=221 > dbl_fileInNumbers[18]=177
+dbl_fileInNumbers[18]=221 > dbl_fileInNumbers[19]=189
+dbl_fileInNumbers[19]=221 > dbl_fileInNumbers[20]=206
+dbl_fileInNumbers[20]=221 > dbl_fileInNumbers[21]=210
+dbl_fileInNumbers[21]=221 > dbl_fileInNumbers[22]=212
+dbl_fileInNumbers[8]=164 > dbl_fileInNumbers[9]=3
+dbl_fileInNumbers[9]=164 > dbl_fileInNumbers[10]=25
+dbl_fileInNumbers[10]=164 > dbl_fileInNumbers[11]=55
+dbl_fileInNumbers[11]=164 > dbl_fileInNumbers[12]=112
+dbl_fileInNumbers[12]=164 > dbl_fileInNumbers[13]=127
+dbl_fileInNumbers[13]=164 > dbl_fileInNumbers[14]=141
+dbl_fileInNumbers[14]=164 > dbl_fileInNumbers[15]=142
+dbl_fileInNumbers[15]=164 > dbl_fileInNumbers[16]=151
+dbl_fileInNumbers[7]=233 > dbl_fileInNumbers[8]=3
+dbl_fileInNumbers[8]=233 > dbl_fileInNumbers[9]=25
+dbl_fileInNumbers[9]=233 > dbl_fileInNumbers[10]=55
+dbl_fileInNumbers[10]=233 > dbl_fileInNumbers[11]=112
+dbl_fileInNumbers[11]=233 > dbl_fileInNumbers[12]=127
+dbl_fileInNumbers[12]=233 > dbl_fileInNumbers[13]=141
+dbl_fileInNumbers[13]=233 > dbl_fileInNumbers[14]=142
+dbl_fileInNumbers[14]=233 > dbl_fileInNumbers[15]=151
+dbl_fileInNumbers[15]=233 > dbl_fileInNumbers[16]=164
+dbl_fileInNumbers[16]=233 > dbl_fileInNumbers[17]=177
+dbl_fileInNumbers[17]=233 > dbl_fileInNumbers[18]=189
+dbl_fileInNumbers[18]=233 > dbl_fileInNumbers[19]=206
+dbl_fileInNumbers[19]=233 > dbl_fileInNumbers[20]=210
+dbl_fileInNumbers[20]=233 > dbl_fileInNumbers[21]=212
+dbl_fileInNumbers[21]=233 > dbl_fileInNumbers[22]=221
+dbl_fileInNumbers[22]=233 > dbl_fileInNumbers[23]=223
+dbl_fileInNumbers[23]=233 > dbl_fileInNumbers[24]=226
+dbl_fileInNumbers[6]=7 > dbl_fileInNumbers[7]=3
+dbl_fileInNumbers[5]=35 > dbl_fileInNumbers[6]=3
+dbl_fileInNumbers[6]=35 > dbl_fileInNumbers[7]=7
+dbl_fileInNumbers[7]=35 > dbl_fileInNumbers[8]=25
+dbl_fileInNumbers[4]=257 > dbl_fileInNumbers[5]=3
+dbl_fileInNumbers[5]=257 > dbl_fileInNumbers[6]=7
+dbl_fileInNumbers[6]=257 > dbl_fileInNumbers[7]=25
+dbl_fileInNumbers[7]=257 > dbl_fileInNumbers[8]=35
+dbl_fileInNumbers[8]=257 > dbl_fileInNumbers[9]=55
+dbl_fileInNumbers[9]=257 > dbl_fileInNumbers[10]=112
+dbl_fileInNumbers[10]=257 > dbl_fileInNumbers[11]=127
+dbl_fileInNumbers[11]=257 > dbl_fileInNumbers[12]=141
+dbl_fileInNumbers[12]=257 > dbl_fileInNumbers[13]=142
+dbl_fileInNumbers[13]=257 > dbl_fileInNumbers[14]=151
+dbl_fileInNumbers[14]=257 > dbl_fileInNumbers[15]=164
+dbl_fileInNumbers[15]=257 > dbl_fileInNumbers[16]=177
+dbl_fileInNumbers[16]=257 > dbl_fileInNumbers[17]=189
+dbl_fileInNumbers[17]=257 > dbl_fileInNumbers[18]=206
+dbl_fileInNumbers[18]=257 > dbl_fileInNumbers[19]=210
+dbl_fileInNumbers[19]=257 > dbl_fileInNumbers[20]=212
+dbl_fileInNumbers[20]=257 > dbl_fileInNumbers[21]=221
+dbl_fileInNumbers[21]=257 > dbl_fileInNumbers[22]=223
+dbl_fileInNumbers[22]=257 > dbl_fileInNumbers[23]=226
+dbl_fileInNumbers[23]=257 > dbl_fileInNumbers[24]=233
+dbl_fileInNumbers[24]=257 > dbl_fileInNumbers[25]=240
+dbl_fileInNumbers[25]=257 > dbl_fileInNumbers[26]=243
+dbl_fileInNumbers[26]=257 > dbl_fileInNumbers[27]=248
+dbl_fileInNumbers[3]=200 > dbl_fileInNumbers[4]=3
+dbl_fileInNumbers[4]=200 > dbl_fileInNumbers[5]=7
+dbl_fileInNumbers[5]=200 > dbl_fileInNumbers[6]=25
+dbl_fileInNumbers[6]=200 > dbl_fileInNumbers[7]=35
+dbl_fileInNumbers[7]=200 > dbl_fileInNumbers[8]=55
+dbl_fileInNumbers[8]=200 > dbl_fileInNumbers[9]=112
+dbl_fileInNumbers[9]=200 > dbl_fileInNumbers[10]=127
+dbl_fileInNumbers[10]=200 > dbl_fileInNumbers[11]=141
+dbl_fileInNumbers[11]=200 > dbl_fileInNumbers[12]=142
+dbl_fileInNumbers[12]=200 > dbl_fileInNumbers[13]=151
+dbl_fileInNumbers[13]=200 > dbl_fileInNumbers[14]=164
+dbl_fileInNumbers[14]=200 > dbl_fileInNumbers[15]=177
+dbl_fileInNumbers[15]=200 > dbl_fileInNumbers[16]=189
+dbl_fileInNumbers[2]=269 > dbl_fileInNumbers[3]=3
+dbl_fileInNumbers[3]=269 > dbl_fileInNumbers[4]=7
+dbl_fileInNumbers[4]=269 > dbl_fileInNumbers[5]=25
+dbl_fileInNumbers[5]=269 > dbl_fileInNumbers[6]=35
+dbl_fileInNumbers[6]=269 > dbl_fileInNumbers[7]=55
+dbl_fileInNumbers[7]=269 > dbl_fileInNumbers[8]=112
+dbl_fileInNumbers[8]=269 > dbl_fileInNumbers[9]=127
+dbl_fileInNumbers[9]=269 > dbl_fileInNumbers[10]=141
+dbl_fileInNumbers[10]=269 > dbl_fileInNumbers[11]=142
+dbl_fileInNumbers[11]=269 > dbl_fileInNumbers[12]=151
+dbl_fileInNumbers[12]=269 > dbl_fileInNumbers[13]=164
+dbl_fileInNumbers[13]=269 > dbl_fileInNumbers[14]=177
+dbl_fileInNumbers[14]=269 > dbl_fileInNumbers[15]=189
+dbl_fileInNumbers[15]=269 > dbl_fileInNumbers[16]=200
+dbl_fileInNumbers[16]=269 > dbl_fileInNumbers[17]=206
+dbl_fileInNumbers[17]=269 > dbl_fileInNumbers[18]=210
+dbl_fileInNumbers[18]=269 > dbl_fileInNumbers[19]=212
+dbl_fileInNumbers[19]=269 > dbl_fileInNumbers[20]=221
+dbl_fileInNumbers[20]=269 > dbl_fileInNumbers[21]=223
+dbl_fileInNumbers[21]=269 > dbl_fileInNumbers[22]=226
+dbl_fileInNumbers[22]=269 > dbl_fileInNumbers[23]=233
+dbl_fileInNumbers[23]=269 > dbl_fileInNumbers[24]=240
+dbl_fileInNumbers[24]=269 > dbl_fileInNumbers[25]=243
+dbl_fileInNumbers[25]=269 > dbl_fileInNumbers[26]=248
+dbl_fileInNumbers[26]=269 > dbl_fileInNumbers[27]=257
+dbl_fileInNumbers[27]=269 > dbl_fileInNumbers[28]=265
+dbl_fileInNumbers[1]=120 > dbl_fileInNumbers[2]=3
+dbl_fileInNumbers[2]=120 > dbl_fileInNumbers[3]=7
+dbl_fileInNumbers[3]=120 > dbl_fileInNumbers[4]=25
+dbl_fileInNumbers[4]=120 > dbl_fileInNumbers[5]=35
+dbl_fileInNumbers[5]=120 > dbl_fileInNumbers[6]=55
+dbl_fileInNumbers[6]=120 > dbl_fileInNumbers[7]=112
+dbl_fileInNumbers[0]=245 > dbl_fileInNumbers[1]=3
+dbl_fileInNumbers[1]=245 > dbl_fileInNumbers[2]=7
+dbl_fileInNumbers[2]=245 > dbl_fileInNumbers[3]=25
+dbl_fileInNumbers[3]=245 > dbl_fileInNumbers[4]=35
+dbl_fileInNumbers[4]=245 > dbl_fileInNumbers[5]=55
+dbl_fileInNumbers[5]=245 > dbl_fileInNumbers[6]=112
+dbl_fileInNumbers[6]=245 > dbl_fileInNumbers[7]=120
+dbl_fileInNumbers[7]=245 > dbl_fileInNumbers[8]=127
+dbl_fileInNumbers[8]=245 > dbl_fileInNumbers[9]=141
+dbl_fileInNumbers[9]=245 > dbl_fileInNumbers[10]=142
+dbl_fileInNumbers[10]=245 > dbl_fileInNumbers[11]=151
+dbl_fileInNumbers[11]=245 > dbl_fileInNumbers[12]=164
+dbl_fileInNumbers[12]=245 > dbl_fileInNumbers[13]=177
+dbl_fileInNumbers[13]=245 > dbl_fileInNumbers[14]=189
+dbl_fileInNumbers[14]=245 > dbl_fileInNumbers[15]=200
+dbl_fileInNumbers[15]=245 > dbl_fileInNumbers[16]=206
+dbl_fileInNumbers[16]=245 > dbl_fileInNumbers[17]=210
+dbl_fileInNumbers[17]=245 > dbl_fileInNumbers[18]=212
+dbl_fileInNumbers[18]=245 > dbl_fileInNumbers[19]=221
+dbl_fileInNumbers[19]=245 > dbl_fileInNumbers[20]=223
+dbl_fileInNumbers[20]=245 > dbl_fileInNumbers[21]=226
+dbl_fileInNumbers[21]=245 > dbl_fileInNumbers[22]=233
+dbl_fileInNumbers[22]=245 > dbl_fileInNumbers[23]=240
+dbl_fileInNumbers[23]=245 > dbl_fileInNumbers[24]=243
+Sorting complete after 225 swaps performed
+dbl_fileLineCount[0]=3
+dbl_fileLineCount[1]=7
+dbl_fileLineCount[2]=25
+dbl_fileLineCount[3]=35
+dbl_fileLineCount[4]=55
+dbl_fileLineCount[5]=112
+dbl_fileLineCount[6]=120
+dbl_fileLineCount[7]=127
+dbl_fileLineCount[8]=141
+dbl_fileLineCount[9]=142
+dbl_fileLineCount[10]=151
+dbl_fileLineCount[11]=164
+dbl_fileLineCount[12]=177
+dbl_fileLineCount[13]=189
+dbl_fileLineCount[14]=200
+dbl_fileLineCount[15]=206
+dbl_fileLineCount[16]=210
+dbl_fileLineCount[17]=212
+dbl_fileLineCount[18]=221
+dbl_fileLineCount[19]=223
+dbl_fileLineCount[20]=226
+dbl_fileLineCount[21]=233
+dbl_fileLineCount[22]=240
+dbl_fileLineCount[23]=243
+dbl_fileLineCount[24]=245
+dbl_fileLineCount[25]=248
+dbl_fileLineCount[26]=257
+dbl_fileLineCount[27]=265
+dbl_fileLineCount[28]=269
+dbl_fileLineCount[29]=272
+Numbers output to logs file successfully
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[28]=189 > dbl_fileInNumbers[29]=177
+dbl_fileInNumbers[26]=210 > dbl_fileInNumbers[27]=25
+dbl_fileInNumbers[27]=210 > dbl_fileInNumbers[28]=177
+dbl_fileInNumbers[28]=210 > dbl_fileInNumbers[29]=189
+dbl_fileInNumbers[25]=151 > dbl_fileInNumbers[26]=25
+dbl_fileInNumbers[24]=226 > dbl_fileInNumbers[25]=25
+dbl_fileInNumbers[25]=226 > dbl_fileInNumbers[26]=151
+dbl_fileInNumbers[26]=226 > dbl_fileInNumbers[27]=177
+dbl_fileInNumbers[27]=226 > dbl_fileInNumbers[28]=189
+dbl_fileInNumbers[28]=226 > dbl_fileInNumbers[29]=210
+dbl_fileInNumbers[23]=240 > dbl_fileInNumbers[24]=25
+dbl_fileInNumbers[24]=240 > dbl_fileInNumbers[25]=151
+dbl_fileInNumbers[25]=240 > dbl_fileInNumbers[26]=177
+dbl_fileInNumbers[26]=240 > dbl_fileInNumbers[27]=189
+dbl_fileInNumbers[27]=240 > dbl_fileInNumbers[28]=210
+dbl_fileInNumbers[28]=240 > dbl_fileInNumbers[29]=226
+dbl_fileInNumbers[22]=272 > dbl_fileInNumbers[23]=25
+dbl_fileInNumbers[23]=272 > dbl_fileInNumbers[24]=151
+dbl_fileInNumbers[24]=272 > dbl_fileInNumbers[25]=177
+dbl_fileInNumbers[25]=272 > dbl_fileInNumbers[26]=189
+dbl_fileInNumbers[26]=272 > dbl_fileInNumbers[27]=210
+dbl_fileInNumbers[27]=272 > dbl_fileInNumbers[28]=226
+dbl_fileInNumbers[28]=272 > dbl_fileInNumbers[29]=240
+dbl_fileInNumbers[20]=243 > dbl_fileInNumbers[21]=3
+dbl_fileInNumbers[21]=243 > dbl_fileInNumbers[22]=25
+dbl_fileInNumbers[22]=243 > dbl_fileInNumbers[23]=151
+dbl_fileInNumbers[23]=243 > dbl_fileInNumbers[24]=177
+dbl_fileInNumbers[24]=243 > dbl_fileInNumbers[25]=189
+dbl_fileInNumbers[25]=243 > dbl_fileInNumbers[26]=210
+dbl_fileInNumbers[26]=243 > dbl_fileInNumbers[27]=226
+dbl_fileInNumbers[27]=243 > dbl_fileInNumbers[28]=240
+dbl_fileInNumbers[19]=212 > dbl_fileInNumbers[20]=3
+dbl_fileInNumbers[20]=212 > dbl_fileInNumbers[21]=25
+dbl_fileInNumbers[21]=212 > dbl_fileInNumbers[22]=151
+dbl_fileInNumbers[22]=212 > dbl_fileInNumbers[23]=177
+dbl_fileInNumbers[23]=212 > dbl_fileInNumbers[24]=189
+dbl_fileInNumbers[24]=212 > dbl_fileInNumbers[25]=210
+dbl_fileInNumbers[18]=142 > dbl_fileInNumbers[19]=3
+dbl_fileInNumbers[19]=142 > dbl_fileInNumbers[20]=25
+dbl_fileInNumbers[17]=265 > dbl_fileInNumbers[18]=3
+dbl_fileInNumbers[18]=265 > dbl_fileInNumbers[19]=25
+dbl_fileInNumbers[19]=265 > dbl_fileInNumbers[20]=142
+dbl_fileInNumbers[20]=265 > dbl_fileInNumbers[21]=151
+dbl_fileInNumbers[21]=265 > dbl_fileInNumbers[22]=177
+dbl_fileInNumbers[22]=265 > dbl_fileInNumbers[23]=189
+dbl_fileInNumbers[23]=265 > dbl_fileInNumbers[24]=210
+dbl_fileInNumbers[24]=265 > dbl_fileInNumbers[25]=212
+dbl_fileInNumbers[25]=265 > dbl_fileInNumbers[26]=226
+dbl_fileInNumbers[26]=265 > dbl_fileInNumbers[27]=240
+dbl_fileInNumbers[27]=265 > dbl_fileInNumbers[28]=243
+dbl_fileInNumbers[16]=127 > dbl_fileInNumbers[17]=3
+dbl_fileInNumbers[17]=127 > dbl_fileInNumbers[18]=25
+dbl_fileInNumbers[15]=248 > dbl_fileInNumbers[16]=3
+dbl_fileInNumbers[16]=248 > dbl_fileInNumbers[17]=25
+dbl_fileInNumbers[17]=248 > dbl_fileInNumbers[18]=127
+dbl_fileInNumbers[18]=248 > dbl_fileInNumbers[19]=142
+dbl_fileInNumbers[19]=248 > dbl_fileInNumbers[20]=151
+dbl_fileInNumbers[20]=248 > dbl_fileInNumbers[21]=177
+dbl_fileInNumbers[21]=248 > dbl_fileInNumbers[22]=189
+dbl_fileInNumbers[22]=248 > dbl_fileInNumbers[23]=210
+dbl_fileInNumbers[23]=248 > dbl_fileInNumbers[24]=212
+dbl_fileInNumbers[24]=248 > dbl_fileInNumbers[25]=226
+dbl_fileInNumbers[25]=248 > dbl_fileInNumbers[26]=240
+dbl_fileInNumbers[26]=248 > dbl_fileInNumbers[27]=243
+dbl_fileInNumbers[14]=141 > dbl_fileInNumbers[15]=3
+dbl_fileInNumbers[15]=141 > dbl_fileInNumbers[16]=25
+dbl_fileInNumbers[16]=141 > dbl_fileInNumbers[17]=127
+dbl_fileInNumbers[13]=112 > dbl_fileInNumbers[14]=3
+dbl_fileInNumbers[14]=112 > dbl_fileInNumbers[15]=25
+dbl_fileInNumbers[12]=223 > dbl_fileInNumbers[13]=3
+dbl_fileInNumbers[13]=223 > dbl_fileInNumbers[14]=25
+dbl_fileInNumbers[14]=223 > dbl_fileInNumbers[15]=112
+dbl_fileInNumbers[15]=223 > dbl_fileInNumbers[16]=127
+dbl_fileInNumbers[16]=223 > dbl_fileInNumbers[17]=141
+dbl_fileInNumbers[17]=223 > dbl_fileInNumbers[18]=142
+dbl_fileInNumbers[18]=223 > dbl_fileInNumbers[19]=151
+dbl_fileInNumbers[19]=223 > dbl_fileInNumbers[20]=177
+dbl_fileInNumbers[20]=223 > dbl_fileInNumbers[21]=189
+dbl_fileInNumbers[21]=223 > dbl_fileInNumbers[22]=210
+dbl_fileInNumbers[22]=223 > dbl_fileInNumbers[23]=212
+dbl_fileInNumbers[11]=206 > dbl_fileInNumbers[12]=3
+dbl_fileInNumbers[12]=206 > dbl_fileInNumbers[13]=25
+dbl_fileInNumbers[13]=206 > dbl_fileInNumbers[14]=112
+dbl_fileInNumbers[14]=206 > dbl_fileInNumbers[15]=127
+dbl_fileInNumbers[15]=206 > dbl_fileInNumbers[16]=141
+dbl_fileInNumbers[16]=206 > dbl_fileInNumbers[17]=142
+dbl_fileInNumbers[17]=206 > dbl_fileInNumbers[18]=151
+dbl_fileInNumbers[18]=206 > dbl_fileInNumbers[19]=177
+dbl_fileInNumbers[19]=206 > dbl_fileInNumbers[20]=189
+dbl_fileInNumbers[10]=55 > dbl_fileInNumbers[11]=3
+dbl_fileInNumbers[11]=55 > dbl_fileInNumbers[12]=25
+dbl_fileInNumbers[9]=221 > dbl_fileInNumbers[10]=3
+dbl_fileInNumbers[10]=221 > dbl_fileInNumbers[11]=25
+dbl_fileInNumbers[11]=221 > dbl_fileInNumbers[12]=55
+dbl_fileInNumbers[12]=221 > dbl_fileInNumbers[13]=112
+dbl_fileInNumbers[13]=221 > dbl_fileInNumbers[14]=127
+dbl_fileInNumbers[14]=221 > dbl_fileInNumbers[15]=141
+dbl_fileInNumbers[15]=221 > dbl_fileInNumbers[16]=142
+dbl_fileInNumbers[16]=221 > dbl_fileInNumbers[17]=151
+dbl_fileInNumbers[17]=221 > dbl_fileInNumbers[18]=177
+dbl_fileInNumbers[18]=221 > dbl_fileInNumbers[19]=189
+dbl_fileInNumbers[19]=221 > dbl_fileInNumbers[20]=206
+dbl_fileInNumbers[20]=221 > dbl_fileInNumbers[21]=210
+dbl_fileInNumbers[21]=221 > dbl_fileInNumbers[22]=212
+dbl_fileInNumbers[8]=164 > dbl_fileInNumbers[9]=3
+dbl_fileInNumbers[9]=164 > dbl_fileInNumbers[10]=25
+dbl_fileInNumbers[10]=164 > dbl_fileInNumbers[11]=55
+dbl_fileInNumbers[11]=164 > dbl_fileInNumbers[12]=112
+dbl_fileInNumbers[12]=164 > dbl_fileInNumbers[13]=127
+dbl_fileInNumbers[13]=164 > dbl_fileInNumbers[14]=141
+dbl_fileInNumbers[14]=164 > dbl_fileInNumbers[15]=142
+dbl_fileInNumbers[15]=164 > dbl_fileInNumbers[16]=151
+dbl_fileInNumbers[7]=233 > dbl_fileInNumbers[8]=3
+dbl_fileInNumbers[8]=233 > dbl_fileInNumbers[9]=25
+dbl_fileInNumbers[9]=233 > dbl_fileInNumbers[10]=55
+dbl_fileInNumbers[10]=233 > dbl_fileInNumbers[11]=112
+dbl_fileInNumbers[11]=233 > dbl_fileInNumbers[12]=127
+dbl_fileInNumbers[12]=233 > dbl_fileInNumbers[13]=141
+dbl_fileInNumbers[13]=233 > dbl_fileInNumbers[14]=142
+dbl_fileInNumbers[14]=233 > dbl_fileInNumbers[15]=151
+dbl_fileInNumbers[15]=233 > dbl_fileInNumbers[16]=164
+dbl_fileInNumbers[16]=233 > dbl_fileInNumbers[17]=177
+dbl_fileInNumbers[17]=233 > dbl_fileInNumbers[18]=189
+dbl_fileInNumbers[18]=233 > dbl_fileInNumbers[19]=206
+dbl_fileInNumbers[19]=233 > dbl_fileInNumbers[20]=210
+dbl_fileInNumbers[20]=233 > dbl_fileInNumbers[21]=212
+dbl_fileInNumbers[21]=233 > dbl_fileInNumbers[22]=221
+dbl_fileInNumbers[22]=233 > dbl_fileInNumbers[23]=223
+dbl_fileInNumbers[23]=233 > dbl_fileInNumbers[24]=226
+dbl_fileInNumbers[6]=7 > dbl_fileInNumbers[7]=3
+dbl_fileInNumbers[5]=35 > dbl_fileInNumbers[6]=3
+dbl_fileInNumbers[6]=35 > dbl_fileInNumbers[7]=7
+dbl_fileInNumbers[7]=35 > dbl_fileInNumbers[8]=25
+dbl_fileInNumbers[4]=257 > dbl_fileInNumbers[5]=3
+dbl_fileInNumbers[5]=257 > dbl_fileInNumbers[6]=7
+dbl_fileInNumbers[6]=257 > dbl_fileInNumbers[7]=25
+dbl_fileInNumbers[7]=257 > dbl_fileInNumbers[8]=35
+dbl_fileInNumbers[8]=257 > dbl_fileInNumbers[9]=55
+dbl_fileInNumbers[9]=257 > dbl_fileInNumbers[10]=112
+dbl_fileInNumbers[10]=257 > dbl_fileInNumbers[11]=127
+dbl_fileInNumbers[11]=257 > dbl_fileInNumbers[12]=141
+dbl_fileInNumbers[12]=257 > dbl_fileInNumbers[13]=142
+dbl_fileInNumbers[13]=257 > dbl_fileInNumbers[14]=151
+dbl_fileInNumbers[14]=257 > dbl_fileInNumbers[15]=164
+dbl_fileInNumbers[15]=257 > dbl_fileInNumbers[16]=177
+dbl_fileInNumbers[16]=257 > dbl_fileInNumbers[17]=189
+dbl_fileInNumbers[17]=257 > dbl_fileInNumbers[18]=206
+dbl_fileInNumbers[18]=257 > dbl_fileInNumbers[19]=210
+dbl_fileInNumbers[19]=257 > dbl_fileInNumbers[20]=212
+dbl_fileInNumbers[20]=257 > dbl_fileInNumbers[21]=221
+dbl_fileInNumbers[21]=257 > dbl_fileInNumbers[22]=223
+dbl_fileInNumbers[22]=257 > dbl_fileInNumbers[23]=226
+dbl_fileInNumbers[23]=257 > dbl_fileInNumbers[24]=233
+dbl_fileInNumbers[24]=257 > dbl_fileInNumbers[25]=240
+dbl_fileInNumbers[25]=257 > dbl_fileInNumbers[26]=243
+dbl_fileInNumbers[26]=257 > dbl_fileInNumbers[27]=248
+dbl_fileInNumbers[3]=200 > dbl_fileInNumbers[4]=3
+dbl_fileInNumbers[4]=200 > dbl_fileInNumbers[5]=7
+dbl_fileInNumbers[5]=200 > dbl_fileInNumbers[6]=25
+dbl_fileInNumbers[6]=200 > dbl_fileInNumbers[7]=35
+dbl_fileInNumbers[7]=200 > dbl_fileInNumbers[8]=55
+dbl_fileInNumbers[8]=200 > dbl_fileInNumbers[9]=112
+dbl_fileInNumbers[9]=200 > dbl_fileInNumbers[10]=127
+dbl_fileInNumbers[10]=200 > dbl_fileInNumbers[11]=141
+dbl_fileInNumbers[11]=200 > dbl_fileInNumbers[12]=142
+dbl_fileInNumbers[12]=200 > dbl_fileInNumbers[13]=151
+dbl_fileInNumbers[13]=200 > dbl_fileInNumbers[14]=164
+dbl_fileInNumbers[14]=200 > dbl_fileInNumbers[15]=177
+dbl_fileInNumbers[15]=200 > dbl_fileInNumbers[16]=189
+dbl_fileInNumbers[2]=269 > dbl_fileInNumbers[3]=3
+dbl_fileInNumbers[3]=269 > dbl_fileInNumbers[4]=7
+dbl_fileInNumbers[4]=269 > dbl_fileInNumbers[5]=25
+dbl_fileInNumbers[5]=269 > dbl_fileInNumbers[6]=35
+dbl_fileInNumbers[6]=269 > dbl_fileInNumbers[7]=55
+dbl_fileInNumbers[7]=269 > dbl_fileInNumbers[8]=112
+dbl_fileInNumbers[8]=269 > dbl_fileInNumbers[9]=127
+dbl_fileInNumbers[9]=269 > dbl_fileInNumbers[10]=141
+dbl_fileInNumbers[10]=269 > dbl_fileInNumbers[11]=142
+dbl_fileInNumbers[11]=269 > dbl_fileInNumbers[12]=151
+dbl_fileInNumbers[12]=269 > dbl_fileInNumbers[13]=164
+dbl_fileInNumbers[13]=269 > dbl_fileInNumbers[14]=177
+dbl_fileInNumbers[14]=269 > dbl_fileInNumbers[15]=189
+dbl_fileInNumbers[15]=269 > dbl_fileInNumbers[16]=200
+dbl_fileInNumbers[16]=269 > dbl_fileInNumbers[17]=206
+dbl_fileInNumbers[17]=269 > dbl_fileInNumbers[18]=210
+dbl_fileInNumbers[18]=269 > dbl_fileInNumbers[19]=212
+dbl_fileInNumbers[19]=269 > dbl_fileInNumbers[20]=221
+dbl_fileInNumbers[20]=269 > dbl_fileInNumbers[21]=223
+dbl_fileInNumbers[21]=269 > dbl_fileInNumbers[22]=226
+dbl_fileInNumbers[22]=269 > dbl_fileInNumbers[23]=233
+dbl_fileInNumbers[23]=269 > dbl_fileInNumbers[24]=240
+dbl_fileInNumbers[24]=269 > dbl_fileInNumbers[25]=243
+dbl_fileInNumbers[25]=269 > dbl_fileInNumbers[26]=248
+dbl_fileInNumbers[26]=269 > dbl_fileInNumbers[27]=257
+dbl_fileInNumbers[27]=269 > dbl_fileInNumbers[28]=265
+dbl_fileInNumbers[1]=120 > dbl_fileInNumbers[2]=3
+dbl_fileInNumbers[2]=120 > dbl_fileInNumbers[3]=7
+dbl_fileInNumbers[3]=120 > dbl_fileInNumbers[4]=25
+dbl_fileInNumbers[4]=120 > dbl_fileInNumbers[5]=35
+dbl_fileInNumbers[5]=120 > dbl_fileInNumbers[6]=55
+dbl_fileInNumbers[6]=120 > dbl_fileInNumbers[7]=112
+dbl_fileInNumbers[0]=245 > dbl_fileInNumbers[1]=3
+dbl_fileInNumbers[1]=245 > dbl_fileInNumbers[2]=7
+dbl_fileInNumbers[2]=245 > dbl_fileInNumbers[3]=25
+dbl_fileInNumbers[3]=245 > dbl_fileInNumbers[4]=35
+dbl_fileInNumbers[4]=245 > dbl_fileInNumbers[5]=55
+dbl_fileInNumbers[5]=245 > dbl_fileInNumbers[6]=112
+dbl_fileInNumbers[6]=245 > dbl_fileInNumbers[7]=120
+dbl_fileInNumbers[7]=245 > dbl_fileInNumbers[8]=127
+dbl_fileInNumbers[8]=245 > dbl_fileInNumbers[9]=141
+dbl_fileInNumbers[9]=245 > dbl_fileInNumbers[10]=142
+dbl_fileInNumbers[10]=245 > dbl_fileInNumbers[11]=151
+dbl_fileInNumbers[11]=245 > dbl_fileInNumbers[12]=164
+dbl_fileInNumbers[12]=245 > dbl_fileInNumbers[13]=177
+dbl_fileInNumbers[13]=245 > dbl_fileInNumbers[14]=189
+dbl_fileInNumbers[14]=245 > dbl_fileInNumbers[15]=200
+dbl_fileInNumbers[15]=245 > dbl_fileInNumbers[16]=206
+dbl_fileInNumbers[16]=245 > dbl_fileInNumbers[17]=210
+dbl_fileInNumbers[17]=245 > dbl_fileInNumbers[18]=212
+dbl_fileInNumbers[18]=245 > dbl_fileInNumbers[19]=221
+dbl_fileInNumbers[19]=245 > dbl_fileInNumbers[20]=223
+dbl_fileInNumbers[20]=245 > dbl_fileInNumbers[21]=226
+dbl_fileInNumbers[21]=245 > dbl_fileInNumbers[22]=233
+dbl_fileInNumbers[22]=245 > dbl_fileInNumbers[23]=240
+dbl_fileInNumbers[23]=245 > dbl_fileInNumbers[24]=243
+Sorting complete after 225 swaps performed
+dbl_fileLineCount[0]=3
+dbl_fileLineCount[1]=7
+dbl_fileLineCount[2]=25
+dbl_fileLineCount[3]=35
+dbl_fileLineCount[4]=55
+dbl_fileLineCount[5]=112
+dbl_fileLineCount[6]=120
+dbl_fileLineCount[7]=127
+dbl_fileLineCount[8]=141
+dbl_fileLineCount[9]=142
+dbl_fileLineCount[10]=151
+dbl_fileLineCount[11]=164
+dbl_fileLineCount[12]=177
+dbl_fileLineCount[13]=189
+dbl_fileLineCount[14]=200
+dbl_fileLineCount[15]=206
+dbl_fileLineCount[16]=210
+dbl_fileLineCount[17]=212
+dbl_fileLineCount[18]=221
+dbl_fileLineCount[19]=223
+dbl_fileLineCount[20]=226
+dbl_fileLineCount[21]=233
+dbl_fileLineCount[22]=240
+dbl_fileLineCount[23]=243
+dbl_fileLineCount[24]=245
+dbl_fileLineCount[25]=248
+dbl_fileLineCount[26]=257
+dbl_fileLineCount[27]=265
+dbl_fileLineCount[28]=269
+dbl_fileLineCount[29]=272
+Numbers output to logs file successfully
+End of program execution.
+Begin program run.
+Input file name = testInput.txt
+Output file name = testOutput.txt
+File has 30lines
+Writing line 0 to array successful (245)
+Writing line 1 to array successful (120)
+Writing line 2 to array successful (269)
+Writing line 3 to array successful (200)
+Writing line 4 to array successful (257)
+Writing line 5 to array successful (35)
+Writing line 6 to array successful (7)
+Writing line 7 to array successful (233)
+Writing line 8 to array successful (164)
+Writing line 9 to array successful (221)
+Writing line 10 to array successful (55)
+Writing line 11 to array successful (206)
+Writing line 12 to array successful (223)
+Writing line 13 to array successful (112)
+Writing line 14 to array successful (141)
+Writing line 15 to array successful (248)
+Writing line 16 to array successful (127)
+Writing line 17 to array successful (265)
+Writing line 18 to array successful (142)
+Writing line 19 to array successful (212)
+Writing line 20 to array successful (243)
+Writing line 21 to array successful (3)
+Writing line 22 to array successful (272)
+Writing line 23 to array successful (240)
+Writing line 24 to array successful (226)
+Writing line 25 to array successful (151)
+Writing line 26 to array successful (210)
+Writing line 27 to array successful (25)
+Writing line 28 to array successful (189)
+Writing line 29 to array successful (177)
+dbl_fileInNumbers[28]=189 > dbl_fileInNumbers[29]=177
+dbl_fileInNumbers[26]=210 > dbl_fileInNumbers[27]=25
+dbl_fileInNumbers[27]=210 > dbl_fileInNumbers[28]=177
+dbl_fileInNumbers[28]=210 > dbl_fileInNumbers[29]=189
+dbl_fileInNumbers[25]=151 > dbl_fileInNumbers[26]=25
+dbl_fileInNumbers[24]=226 > dbl_fileInNumbers[25]=25
+dbl_fileInNumbers[25]=226 > dbl_fileInNumbers[26]=151
+dbl_fileInNumbers[26]=226 > dbl_fileInNumbers[27]=177
+dbl_fileInNumbers[27]=226 > dbl_fileInNumbers[28]=189
+dbl_fileInNumbers[28]=226 > dbl_fileInNumbers[29]=210
+dbl_fileInNumbers[23]=240 > dbl_fileInNumbers[24]=25
+dbl_fileInNumbers[24]=240 > dbl_fileInNumbers[25]=151
+dbl_fileInNumbers[25]=240 > dbl_fileInNumbers[26]=177
+dbl_fileInNumbers[26]=240 > dbl_fileInNumbers[27]=189
+dbl_fileInNumbers[27]=240 > dbl_fileInNumbers[28]=210
+dbl_fileInNumbers[28]=240 > dbl_fileInNumbers[29]=226
+dbl_fileInNumbers[22]=272 > dbl_fileInNumbers[23]=25
+dbl_fileInNumbers[23]=272 > dbl_fileInNumbers[24]=151
+dbl_fileInNumbers[24]=272 > dbl_fileInNumbers[25]=177
+dbl_fileInNumbers[25]=272 > dbl_fileInNumbers[26]=189
+dbl_fileInNumbers[26]=272 > dbl_fileInNumbers[27]=210
+dbl_fileInNumbers[27]=272 > dbl_fileInNumbers[28]=226
+dbl_fileInNumbers[28]=272 > dbl_fileInNumbers[29]=240
+dbl_fileInNumbers[20]=243 > dbl_fileInNumbers[21]=3
+dbl_fileInNumbers[21]=243 > dbl_fileInNumbers[22]=25
+dbl_fileInNumbers[22]=243 > dbl_fileInNumbers[23]=151
+dbl_fileInNumbers[23]=243 > dbl_fileInNumbers[24]=177
+dbl_fileInNumbers[24]=243 > dbl_fileInNumbers[25]=189
+dbl_fileInNumbers[25]=243 > dbl_fileInNumbers[26]=210
+dbl_fileInNumbers[26]=243 > dbl_fileInNumbers[27]=226
+dbl_fileInNumbers[27]=243 > dbl_fileInNumbers[28]=240
+dbl_fileInNumbers[19]=212 > dbl_fileInNumbers[20]=3
+dbl_fileInNumbers[20]=212 > dbl_fileInNumbers[21]=25
+dbl_fileInNumbers[21]=212 > dbl_fileInNumbers[22]=151
+dbl_fileInNumbers[22]=212 > dbl_fileInNumbers[23]=177
+dbl_fileInNumbers[23]=212 > dbl_fileInNumbers[24]=189
+dbl_fileInNumbers[24]=212 > dbl_fileInNumbers[25]=210
+dbl_fileInNumbers[18]=142 > dbl_fileInNumbers[19]=3
+dbl_fileInNumbers[19]=142 > dbl_fileInNumbers[20]=25
+dbl_fileInNumbers[17]=265 > dbl_fileInNumbers[18]=3
+dbl_fileInNumbers[18]=265 > dbl_fileInNumbers[19]=25
+dbl_fileInNumbers[19]=265 > dbl_fileInNumbers[20]=142
+dbl_fileInNumbers[20]=265 > dbl_fileInNumbers[21]=151
+dbl_fileInNumbers[21]=265 > dbl_fileInNumbers[22]=177
+dbl_fileInNumbers[22]=265 > dbl_fileInNumbers[23]=189
+dbl_fileInNumbers[23]=265 > dbl_fileInNumbers[24]=210
+dbl_fileInNumbers[24]=265 > dbl_fileInNumbers[25]=212
+dbl_fileInNumbers[25]=265 > dbl_fileInNumbers[26]=226
+dbl_fileInNumbers[26]=265 > dbl_fileInNumbers[27]=240
+dbl_fileInNumbers[27]=265 > dbl_fileInNumbers[28]=243
+dbl_fileInNumbers[16]=127 > dbl_fileInNumbers[17]=3
+dbl_fileInNumbers[17]=127 > dbl_fileInNumbers[18]=25
+dbl_fileInNumbers[15]=248 > dbl_fileInNumbers[16]=3
+dbl_fileInNumbers[16]=248 > dbl_fileInNumbers[17]=25
+dbl_fileInNumbers[17]=248 > dbl_fileInNumbers[18]=127
+dbl_fileInNumbers[18]=248 > dbl_fileInNumbers[19]=142
+dbl_fileInNumbers[19]=248 > dbl_fileInNumbers[20]=151
+dbl_fileInNumbers[20]=248 > dbl_fileInNumbers[21]=177
+dbl_fileInNumbers[21]=248 > dbl_fileInNumbers[22]=189
+dbl_fileInNumbers[22]=248 > dbl_fileInNumbers[23]=210
+dbl_fileInNumbers[23]=248 > dbl_fileInNumbers[24]=212
+dbl_fileInNumbers[24]=248 > dbl_fileInNumbers[25]=226
+dbl_fileInNumbers[25]=248 > dbl_fileInNumbers[26]=240
+dbl_fileInNumbers[26]=248 > dbl_fileInNumbers[27]=243
+dbl_fileInNumbers[14]=141 > dbl_fileInNumbers[15]=3
+dbl_fileInNumbers[15]=141 > dbl_fileInNumbers[16]=25
+dbl_fileInNumbers[16]=141 > dbl_fileInNumbers[17]=127
+dbl_fileInNumbers[13]=112 > dbl_fileInNumbers[14]=3
+dbl_fileInNumbers[14]=112 > dbl_fileInNumbers[15]=25
+dbl_fileInNumbers[12]=223 > dbl_fileInNumbers[13]=3
+dbl_fileInNumbers[13]=223 > dbl_fileInNumbers[14]=25
+dbl_fileInNumbers[14]=223 > dbl_fileInNumbers[15]=112
+dbl_fileInNumbers[15]=223 > dbl_fileInNumbers[16]=127
+dbl_fileInNumbers[16]=223 > dbl_fileInNumbers[17]=141
+dbl_fileInNumbers[17]=223 > dbl_fileInNumbers[18]=142
+dbl_fileInNumbers[18]=223 > dbl_fileInNumbers[19]=151
+dbl_fileInNumbers[19]=223 > dbl_fileInNumbers[20]=177
+dbl_fileInNumbers[20]=223 > dbl_fileInNumbers[21]=189
+dbl_fileInNumbers[21]=223 > dbl_fileInNumbers[22]=210
+dbl_fileInNumbers[22]=223 > dbl_fileInNumbers[23]=212
+dbl_fileInNumbers[11]=206 > dbl_fileInNumbers[12]=3
+dbl_fileInNumbers[12]=206 > dbl_fileInNumbers[13]=25
+dbl_fileInNumbers[13]=206 > dbl_fileInNumbers[14]=112
+dbl_fileInNumbers[14]=206 > dbl_fileInNumbers[15]=127
+dbl_fileInNumbers[15]=206 > dbl_fileInNumbers[16]=141
+dbl_fileInNumbers[16]=206 > dbl_fileInNumbers[17]=142
+dbl_fileInNumbers[17]=206 > dbl_fileInNumbers[18]=151
+dbl_fileInNumbers[18]=206 > dbl_fileInNumbers[19]=177
+dbl_fileInNumbers[19]=206 > dbl_fileInNumbers[20]=189
+dbl_fileInNumbers[10]=55 > dbl_fileInNumbers[11]=3
+dbl_fileInNumbers[11]=55 > dbl_fileInNumbers[12]=25
+dbl_fileInNumbers[9]=221 > dbl_fileInNumbers[10]=3
+dbl_fileInNumbers[10]=221 > dbl_fileInNumbers[11]=25
+dbl_fileInNumbers[11]=221 > dbl_fileInNumbers[12]=55
+dbl_fileInNumbers[12]=221 > dbl_fileInNumbers[13]=112
+dbl_fileInNumbers[13]=221 > dbl_fileInNumbers[14]=127
+dbl_fileInNumbers[14]=221 > dbl_fileInNumbers[15]=141
+dbl_fileInNumbers[15]=221 > dbl_fileInNumbers[16]=142
+dbl_fileInNumbers[16]=221 > dbl_fileInNumbers[17]=151
+dbl_fileInNumbers[17]=221 > dbl_fileInNumbers[18]=177
+dbl_fileInNumbers[18]=221 > dbl_fileInNumbers[19]=189
+dbl_fileInNumbers[19]=221 > dbl_fileInNumbers[20]=206
+dbl_fileInNumbers[20]=221 > dbl_fileInNumbers[21]=210
+dbl_fileInNumbers[21]=221 > dbl_fileInNumbers[22]=212
+dbl_fileInNumbers[8]=164 > dbl_fileInNumbers[9]=3
+dbl_fileInNumbers[9]=164 > dbl_fileInNumbers[10]=25
+dbl_fileInNumbers[10]=164 > dbl_fileInNumbers[11]=55
+dbl_fileInNumbers[11]=164 > dbl_fileInNumbers[12]=112
+dbl_fileInNumbers[12]=164 > dbl_fileInNumbers[13]=127
+dbl_fileInNumbers[13]=164 > dbl_fileInNumbers[14]=141
+dbl_fileInNumbers[14]=164 > dbl_fileInNumbers[15]=142
+dbl_fileInNumbers[15]=164 > dbl_fileInNumbers[16]=151
+dbl_fileInNumbers[7]=233 > dbl_fileInNumbers[8]=3
+dbl_fileInNumbers[8]=233 > dbl_fileInNumbers[9]=25
+dbl_fileInNumbers[9]=233 > dbl_fileInNumbers[10]=55
+dbl_fileInNumbers[10]=233 > dbl_fileInNumbers[11]=112
+dbl_fileInNumbers[11]=233 > dbl_fileInNumbers[12]=127
+dbl_fileInNumbers[12]=233 > dbl_fileInNumbers[13]=141
+dbl_fileInNumbers[13]=233 > dbl_fileInNumbers[14]=142
+dbl_fileInNumbers[14]=233 > dbl_fileInNumbers[15]=151
+dbl_fileInNumbers[15]=233 > dbl_fileInNumbers[16]=164
+dbl_fileInNumbers[16]=233 > dbl_fileInNumbers[17]=177
+dbl_fileInNumbers[17]=233 > dbl_fileInNumbers[18]=189
+dbl_fileInNumbers[18]=233 > dbl_fileInNumbers[19]=206
+dbl_fileInNumbers[19]=233 > dbl_fileInNumbers[20]=210
+dbl_fileInNumbers[20]=233 > dbl_fileInNumbers[21]=212
+dbl_fileInNumbers[21]=233 > dbl_fileInNumbers[22]=221
+dbl_fileInNumbers[22]=233 > dbl_fileInNumbers[23]=223
+dbl_fileInNumbers[23]=233 > dbl_fileInNumbers[24]=226
+dbl_fileInNumbers[6]=7 > dbl_fileInNumbers[7]=3
+dbl_fileInNumbers[5]=35 > dbl_fileInNumbers[6]=3
+dbl_fileInNumbers[6]=35 > dbl_fileInNumbers[7]=7
+dbl_fileInNumbers[7]=35 > dbl_fileInNumbers[8]=25
+dbl_fileInNumbers[4]=257 > dbl_fileInNumbers[5]=3
+dbl_fileInNumbers[5]=257 > dbl_fileInNumbers[6]=7
+dbl_fileInNumbers[6]=257 > dbl_fileInNumbers[7]=25
+dbl_fileInNumbers[7]=257 > dbl_fileInNumbers[8]=35
+dbl_fileInNumbers[8]=257 > dbl_fileInNumbers[9]=55
+dbl_fileInNumbers[9]=257 > dbl_fileInNumbers[10]=112
+dbl_fileInNumbers[10]=257 > dbl_fileInNumbers[11]=127
+dbl_fileInNumbers[11]=257 > dbl_fileInNumbers[12]=141
+dbl_fileInNumbers[12]=257 > dbl_fileInNumbers[13]=142
+dbl_fileInNumbers[13]=257 > dbl_fileInNumbers[14]=151
+dbl_fileInNumbers[14]=257 > dbl_fileInNumbers[15]=164
+dbl_fileInNumbers[15]=257 > dbl_fileInNumbers[16]=177
+dbl_fileInNumbers[16]=257 > dbl_fileInNumbers[17]=189
+dbl_fileInNumbers[17]=257 > dbl_fileInNumbers[18]=206
+dbl_fileInNumbers[18]=257 > dbl_fileInNumbers[19]=210
+dbl_fileInNumbers[19]=257 > dbl_fileInNumbers[20]=212
+dbl_fileInNumbers[20]=257 > dbl_fileInNumbers[21]=221
+dbl_fileInNumbers[21]=257 > dbl_fileInNumbers[22]=223
+dbl_fileInNumbers[22]=257 > dbl_fileInNumbers[23]=226
+dbl_fileInNumbers[23]=257 > dbl_fileInNumbers[24]=233
+dbl_fileInNumbers[24]=257 > dbl_fileInNumbers[25]=240
+dbl_fileInNumbers[25]=257 > dbl_fileInNumbers[26]=243
+dbl_fileInNumbers[26]=257 > dbl_fileInNumbers[27]=248
+dbl_fileInNumbers[3]=200 > dbl_fileInNumbers[4]=3
+dbl_fileInNumbers[4]=200 > dbl_fileInNumbers[5]=7
+dbl_fileInNumbers[5]=200 > dbl_fileInNumbers[6]=25
+dbl_fileInNumbers[6]=200 > dbl_fileInNumbers[7]=35
+dbl_fileInNumbers[7]=200 > dbl_fileInNumbers[8]=55
+dbl_fileInNumbers[8]=200 > dbl_fileInNumbers[9]=112
+dbl_fileInNumbers[9]=200 > dbl_fileInNumbers[10]=127
+dbl_fileInNumbers[10]=200 > dbl_fileInNumbers[11]=141
+dbl_fileInNumbers[11]=200 > dbl_fileInNumbers[12]=142
+dbl_fileInNumbers[12]=200 > dbl_fileInNumbers[13]=151
+dbl_fileInNumbers[13]=200 > dbl_fileInNumbers[14]=164
+dbl_fileInNumbers[14]=200 > dbl_fileInNumbers[15]=177
+dbl_fileInNumbers[15]=200 > dbl_fileInNumbers[16]=189
+dbl_fileInNumbers[2]=269 > dbl_fileInNumbers[3]=3
+dbl_fileInNumbers[3]=269 > dbl_fileInNumbers[4]=7
+dbl_fileInNumbers[4]=269 > dbl_fileInNumbers[5]=25
+dbl_fileInNumbers[5]=269 > dbl_fileInNumbers[6]=35
+dbl_fileInNumbers[6]=269 > dbl_fileInNumbers[7]=55
+dbl_fileInNumbers[7]=269 > dbl_fileInNumbers[8]=112
+dbl_fileInNumbers[8]=269 > dbl_fileInNumbers[9]=127
+dbl_fileInNumbers[9]=269 > dbl_fileInNumbers[10]=141
+dbl_fileInNumbers[10]=269 > dbl_fileInNumbers[11]=142
+dbl_fileInNumbers[11]=269 > dbl_fileInNumbers[12]=151
+dbl_fileInNumbers[12]=269 > dbl_fileInNumbers[13]=164
+dbl_fileInNumbers[13]=269 > dbl_fileInNumbers[14]=177
+dbl_fileInNumbers[14]=269 > dbl_fileInNumbers[15]=189
+dbl_fileInNumbers[15]=269 > dbl_fileInNumbers[16]=200
+dbl_fileInNumbers[16]=269 > dbl_fileInNumbers[17]=206
+dbl_fileInNumbers[17]=269 > dbl_fileInNumbers[18]=210
+dbl_fileInNumbers[18]=269 > dbl_fileInNumbers[19]=212
+dbl_fileInNumbers[19]=269 > dbl_fileInNumbers[20]=221
+dbl_fileInNumbers[20]=269 > dbl_fileInNumbers[21]=223
+dbl_fileInNumbers[21]=269 > dbl_fileInNumbers[22]=226
+dbl_fileInNumbers[22]=269 > dbl_fileInNumbers[23]=233
+dbl_fileInNumbers[23]=269 > dbl_fileInNumbers[24]=240
+dbl_fileInNumbers[24]=269 > dbl_fileInNumbers[25]=243
+dbl_fileInNumbers[25]=269 > dbl_fileInNumbers[26]=248
+dbl_fileInNumbers[26]=269 > dbl_fileInNumbers[27]=257
+dbl_fileInNumbers[27]=269 > dbl_fileInNumbers[28]=265
+dbl_fileInNumbers[1]=120 > dbl_fileInNumbers[2]=3
+dbl_fileInNumbers[2]=120 > dbl_fileInNumbers[3]=7
+dbl_fileInNumbers[3]=120 > dbl_fileInNumbers[4]=25
+dbl_fileInNumbers[4]=120 > dbl_fileInNumbers[5]=35
+dbl_fileInNumbers[5]=120 > dbl_fileInNumbers[6]=55
+dbl_fileInNumbers[6]=120 > dbl_fileInNumbers[7]=112
+dbl_fileInNumbers[0]=245 > dbl_fileInNumbers[1]=3
+dbl_fileInNumbers[1]=245 > dbl_fileInNumbers[2]=7
+dbl_fileInNumbers[2]=245 > dbl_fileInNumbers[3]=25
+dbl_fileInNumbers[3]=245 > dbl_fileInNumbers[4]=35
+dbl_fileInNumbers[4]=245 > dbl_fileInNumbers[5]=55
+dbl_fileInNumbers[5]=245 > dbl_fileInNumbers[6]=112
+dbl_fileInNumbers[6]=245 > dbl_fileInNumbers[7]=120
+dbl_fileInNumbers[7]=245 > dbl_fileInNumbers[8]=127
+dbl_fileInNumbers[8]=245 > dbl_fileInNumbers[9]=141
+dbl_fileInNumbers[9]=245 > dbl_fileInNumbers[10]=142
+dbl_fileInNumbers[10]=245 > dbl_fileInNumbers[11]=151
+dbl_fileInNumbers[11]=245 > dbl_fileInNumbers[12]=164
+dbl_fileInNumbers[12]=245 > dbl_fileInNumbers[13]=177
+dbl_fileInNumbers[13]=245 > dbl_fileInNumbers[14]=189
+dbl_fileInNumbers[14]=245 > dbl_fileInNumbers[15]=200
+dbl_fileInNumbers[15]=245 > dbl_fileInNumbers[16]=206
+dbl_fileInNumbers[16]=245 > dbl_fileInNumbers[17]=210
+dbl_fileInNumbers[17]=245 > dbl_fileInNumbers[18]=212
+dbl_fileInNumbers[18]=245 > dbl_fileInNumbers[19]=221
+dbl_fileInNumbers[19]=245 > dbl_fileInNumbers[20]=223
+dbl_fileInNumbers[20]=245 > dbl_fileInNumbers[21]=226
+dbl_fileInNumbers[21]=245 > dbl_fileInNumbers[22]=233
+dbl_fileInNumbers[22]=245 > dbl_fileInNumbers[23]=240
+dbl_fileInNumbers[23]=245 > dbl_fileInNumbers[24]=243
+Sorting complete after 225 swaps performed
+dbl_fileLineCount[0]=3
+dbl_fileLineCount[1]=7
+dbl_fileLineCount[2]=25
+dbl_fileLineCount[3]=35
+dbl_fileLineCount[4]=55
+dbl_fileLineCount[5]=112
+dbl_fileLineCount[6]=120
+dbl_fileLineCount[7]=127
+dbl_fileLineCount[8]=141
+dbl_fileLineCount[9]=142
+dbl_fileLineCount[10]=151
+dbl_fileLineCount[11]=164
+dbl_fileLineCount[12]=177
+dbl_fileLineCount[13]=189
+dbl_fileLineCount[14]=200
+dbl_fileLineCount[15]=206
+dbl_fileLineCount[16]=210
+dbl_fileLineCount[17]=212
+dbl_fileLineCount[18]=221
+dbl_fileLineCount[19]=223
+dbl_fileLineCount[20]=226
+dbl_fileLineCount[21]=233
+dbl_fileLineCount[22]=240
+dbl_fileLineCount[23]=243
+dbl_fileLineCount[24]=245
+dbl_fileLineCount[25]=248
+dbl_fileLineCount[26]=257
+dbl_fileLineCount[27]=265
+dbl_fileLineCount[28]=269
+dbl_fileLineCount[29]=272
+Numbers output to logs file successfully
+End of program execution.
